@@ -39,6 +39,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
 - [Internships & Companies](#internship-and-company)
+  - [PhD and Academic Career Resources](#phd-and-academic-career-resources)
   - [Geospatial / Physical AI Companies](#geospatial--physical-ai-companies)
   - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
 - [Miscellaneous](#miscellaneous)
@@ -581,6 +582,12 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
 
 
 ## Internship and Company
+### PhD and Academic Career Resources
+
+- **CSPhD.org (博士栈)** — A free, Chinese-speaking community for PhD students and early-career researchers in computer science, AI, electrical engineering, and statistics. It shares PhD and research-assistant opportunities, internships and full-time roles, postdoctoral and faculty resources, peer-review invitations, and conference networking opportunities.<br>
+  Rooted in North America and open to a global audience, it is a useful career and community resource for Autonomous GeoAI researchers navigating doctoral study and academic or industry transitions.<br>
+  https://csphd.org/index.html
+
 ### **Esri (Environmental Systems Research Institute)**  
 *Focus:* GeoAI · Spatial Data Science · GIScience · AI-Integrated GIS  
 
