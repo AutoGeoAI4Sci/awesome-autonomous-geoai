@@ -38,6 +38,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Python](#python)
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
+  - [Generative Earth & World Models](#generative-earth--world-models)
 - [Internships & Companies](#internship-and-company)
   - [PhD and Academic Career Resources](#phd-and-academic-career-resources)
   - [Geospatial / Physical AI Companies](#geospatial--physical-ai-companies)
@@ -579,6 +580,20 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
 
 - **CesiumJS** — Open-source JavaScript library for 3D globes and maps; renders high-precision geospatial data and 3D tiles in the browser for visualization and digital-twin applications  
   https://cesium.com/platform/cesiumjs/
+
+### Generative Earth & World Models
+
+> Platforms where generative models are conditioned on real geospatial data
+> (terrain, imagery, camera pose) — and the emerging trust/provenance issues they raise.
+
+- **Google Earth × Nano Banana 2** — Geospatially grounded image generation inside
+  Google Earth (web): generation conditioned on the current viewport's satellite basemap,
+  3D terrain mesh, and camera parameters, with Gemini search grounding for landmark facts.
+  Notably **pulled within a day of launch** after photorealistic edits of real landmarks
+  raised misinformation concerns, then re-released with added safeguards — an early case
+  study in provenance and governance for geo-referenced generative imagery.<br>
+  🔗 https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/<br>
+  📰 Hands-on: https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/
 
 
 ## Internship and Company
