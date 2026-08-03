@@ -764,6 +764,26 @@ Public materials describe Spexi’s imagery stack as **API-first**, integration-
 
 > **Note:** Spexi is especially valuable to watch if your interests include **real-world data acquisition for GeoAI**, rather than only downstream modeling. It represents the emerging layer where drone capture networks, geospatial APIs, and physical-AI training pipelines begin to merge.
 
+### **Varjo Teleport**
+*Focus:* 3D Gaussian Splatting · Reality Capture · Digital Twins · Aerial / Drone 3D Reconstruction · Spatial Computing
+
+Varjo is a Helsinki-based spatial computing company best known for professional-grade XR headsets used in pilot training, defense simulation, and industrial design. **Teleport** is its cloud reality-capture platform: users capture a scene with a phone, drone, or professional camera, and the service reconstructs it into a **photorealistic 3D Gaussian Splatting (3DGS) model** that is lightweight enough to stream and view in real time, even on mobile devices.
+
+For autonomous GeoAI research, Teleport is notable as one of the first **production-grade, consumer-accessible 3DGS pipelines at geospatial scale**: it supports **multi-square-kilometre aerial scenes captured by any drone**, produces models ranging from roughly 1 million to 100 million splats while holding quality at neighborhood scale, and exposes a **developer API** for embedding reconstructions into third-party applications. Target markets include real estate, construction progress tracking, defense and training environments, and spatial application developers — effectively a turnkey path from raw capture to navigable digital twin.
+
+**Relevant technical themes include:**
+- 3D Gaussian Splatting as a cloud service (capture → reconstruction → real-time streaming)
+- Large-scale aerial / drone reconstruction and city- or neighborhood-scale digital twins
+- Lightweight, web- and mobile-renderable 3D scene representations
+- Developer APIs for integrating photorealistic reconstructions into spatial applications
+- Reality capture for simulation, training, and synthetic-environment generation
+
+*Location:* Helsinki, Finland
+*Website:* https://get.teleport.varjo.com/
+*Company:* https://varjo.com/
+
+> **Positioning Insight:** Varjo Teleport shows radiance-field methods (3DGS) crossing from research demos into a **scalable commercial reconstruction service**. For GeoAI researchers it is a useful reference point for what production 3DGS pipelines deliver at aerial scale — and a potential source of photorealistic scene data for simulation, synthetic training data, and digital-twin work.
+
 ### **Texas A&M Institute for a Disaster Resilient Texas (IDRT)**  
 *Focus:* Disaster Resilience · GeoAI · Hazard Analytics · Decision Support Systems  
 
@@ -1296,6 +1316,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
   https://www.3gon.sk/
 
 #### 3D Scanning, Photogrammetry, and Gaussian Splatting
+
+- **Varjo Teleport** - Cloud reality-capture platform turning phone, drone, or camera captures into photorealistic, real-time-streamable 3D Gaussian Splatting models, with drone-based multi-square-kilometre aerial reconstruction and a developer API (see full profile above).<br>
+  https://get.teleport.varjo.com/
 
 - **XGRIDS** - SLAM-based handheld LiDAR scanning, real-time 3D reconstruction, Lixel scanners, and 3D Gaussian Splatting-oriented spatial computing tools.<br>
   https://www.xgrids.com/
