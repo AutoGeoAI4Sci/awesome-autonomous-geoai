@@ -172,6 +172,10 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   **Track B: Public Health & Spatial Equity** focuses on public-health intervention siting and resource allocation, such as emergency cooling centers, mobile vaccine clinics, and environmental monitoring stations. Key challenges include location-allocation and coverage optimization, network travel time analysis under changing traffic or transit conditions, and trade-off analysis between financial cost, geographic coverage, population density, and equity for historically underserved or isolated communities. HITL controls can let public-health decision-makers tune equity constraints and coverage priorities.<br>
   https://rsvp.withgoogle.com/events/oasis-2026
 
+- **2026 GeoAI Arctic Challenge (Cyber2A)** — An NSF-sponsored instance segmentation competition on detecting and delineating retrogressive thaw slumps (RTS) — ice-rich permafrost landforms collapsing under Arctic warming — from eight-band satellite image chips. Organized by Cyber2A, a collaboration of Arizona State University, Woodwell Climate Research Center, the Arctic Data Center, and NCSA. Automated RTS mapping supports permafrost degradation monitoring, where manual delineation is difficult because the landforms are small, visually subtle, and dynamically changing.<br>
+  **Important dates:** dataset released via Hugging Face on July 1, 2026; benchmark phase with submission portal and leaderboard opens August 15, 2026; final submission deadline January 31, 2027; winners announced March 1, 2027. Cash prizes for the top three teams plus potential publication collaboration.<br>
+  https://cyber2a.github.io/challenge/
+
 - **GeoAI Conference (2026)** — A conference dedicated to GeoAI, spatial intelligence, and AI for geographic data science; includes workshops, tutorials, and industry sessions.  
   https://geoaiconference.org/
   
