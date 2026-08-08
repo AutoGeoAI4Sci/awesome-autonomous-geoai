@@ -43,6 +43,12 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [PhD and Academic Career Resources](#phd-and-academic-career-resources)
   - [Geospatial / Physical AI Companies](#geospatial--physical-ai-companies)
   - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
+- [Postdoc Opportunities](#postdoc-opportunities)
+  - [Prestigious Named Fellowships](#prestigious-named-fellowships)
+  - [Government and National Laboratory Programs (U.S.)](#government-and-national-laboratory-programs-us)
+  - [International Fellowships](#international-fellowships)
+  - [Industry Research Labs](#industry-research-labs)
+  - [Where to Find Openings](#where-to-find-openings)
 - [Miscellaneous](#miscellaneous)
 - [Relevant Awesome Lists](#relevant-awesome-lists)
 - [Funding and Grants](#funding-and-grants)
@@ -1376,6 +1382,72 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 - **Shiyan-tech / Shiyan Intelligent Technology (tentative)** - Possible match: Shiyan Intelligent Technology (Guangzhou), also presented as Roboeye, an AI 3D vision company for manufacturing. Confirm the exhibitor logo, official English name, or event profile before treating this as a verified entry.<br>
   https://www.roboeye.ai/about.asp
 
+
+## Postdoc Opportunities
+
+*Curated top-tier postdoctoral fellowships and research programs for researchers with a
+GeoAI / GIScience / remote sensing / spatiotemporal data science background — from named
+university fellowships to national laboratories, international schemes, industry research
+labs, and the job boards where openings are posted.*
+
+---
+
+### Prestigious Named Fellowships
+
+- **Schmidt Science Fellows** — Highly selective interdisciplinary postdoctoral fellowship that asks fellows to pivot into a new discipline; a strong fit for GeoAI researchers moving toward AI4Science or Earth-system applications  
+  https://schmidtsciencefellows.org/
+- **Miller Research Fellowship (UC Berkeley)** — Three-year independent fellowship at the Miller Institute for Basic Research in Science; open to all sciences, including Earth and computational sciences  
+  https://miller.berkeley.edu/
+- **Harvard Data Science Initiative Postdoctoral Fellows** — Independent data-science research fellowship with freedom to collaborate across Harvard schools; spatial data science and urban analytics are represented themes  
+  https://datascience.harvard.edu/
+- **Columbia Climate School Postdoctoral Research Program** — Earth Institute–lineage postdoc for climate, sustainability, and Earth-systems research; welcomes computational and data-driven approaches  
+  https://www.climate.columbia.edu/
+- **Branco Weiss Fellowship — Society in Science** — Up-to-five-year, globally portable fellowship for researchers pursuing unconventional ideas at the interface of science and society  
+  https://brancoweissfellowship.org/
+
+### Government and National Laboratory Programs (U.S.)
+
+- **USGS Mendenhall Research Fellowship Program** — The flagship U.S. Geological Survey postdoc; research opportunities regularly include geospatial science, remote sensing, natural hazards, and machine learning  
+  https://www.usgs.gov/centers/mendenhall-research-fellowship-program
+- **NASA Postdoctoral Program (NPP)** — Research fellowships across NASA centers (including JPL and Goddard) in Earth science, remote sensing, and data science  
+  https://npp.orau.org/
+- **NSF SBE Postdoctoral Research Fellowships (SPRF)** — NSF-funded postdoc for the social, behavioral, and economic sciences; geography and spatial sciences are eligible disciplines  
+  https://www.nsf.gov/funding/opportunities
+- **CRA/NSF Computing Innovation Fellows (CIFellows)** — Computing-community postdoc program run by the Computing Research Association with NSF support  
+  https://cra.org/cifellows/
+- **NCAR Advanced Study Program (ASP) Postdoctoral Fellowship** — Independent research fellowship at the National Center for Atmospheric Research; strong fit for AI-for-Earth-systems work  
+  https://asp.ucar.edu/
+- **NOAA Climate & Global Change Postdoctoral Fellowship** — UCAR-administered fellowship pairing fellows with host scientists across U.S. climate research institutions  
+  https://cpaess.ucar.edu/cgc
+- **DOE National Laboratory Named Fellowships** — Prestigious lab-specific postdocs such as ORNL's Wigner Fellowship and PNNL's Linus Pauling Distinguished Postdoctoral Fellowship; the national labs increasingly hire in AI/ML for Earth, climate, and geospatial applications  
+  https://www.ornl.gov/careers · https://www.pnnl.gov/careers
+
+### International Fellowships
+
+- **Marie Skłodowska-Curie Postdoctoral Fellowships (MSCA-PF)** — The EU's flagship postdoc scheme (European and Global tracks); host institutions across Europe include leading GIScience and Earth observation groups  
+  https://marie-sklodowska-curie-actions.ec.europa.eu/
+- **Alexander von Humboldt Research Fellowship** — Flexible 6–24 month fellowship for postdoctoral research at any institution in Germany  
+  https://www.humboldt-foundation.de/
+- **Royal Society Newton International Fellowships** — Two-year fellowship for early-career researchers moving to the UK in the natural sciences  
+  https://royalsociety.org/grants-schemes-awards/grants/newton-international/
+
+### Industry Research Labs
+
+- **Microsoft Research Postdoctoral Researcher Program** — One-to-two-year research positions across MSR labs; sustainability and AI-for-good teams work directly on geospatial and Earth data  
+  https://www.microsoft.com/en-us/research/careers/
+- **Allen Institute for AI (Ai2)** — Young Investigator (postdoc-equivalent) and research scientist roles; Ai2's climate modeling and open-model teams intersect with geospatial AI  
+  https://allenai.org/careers
+
+### Where to Find Openings
+
+- **AAG Jobs & Careers** — The American Association of Geographers job board; the main venue for geography and GIScience postdoc and faculty listings  
+  https://www.aag.org/jobs-careers/
+- **AcademicJobsOnline** — Aggregator widely used for postdoc listings in computer science, data science, and the Earth sciences  
+  https://academicjobsonline.org/
+- **Earthworks** — Long-running international job board for geoscience, remote sensing, and GIS positions  
+  https://www.earthworks-jobs.com/
+- **I-GUIDE (NSF Institute for Geospatial Understanding through an Integrative Discovery Environment)** — NSF institute whose partner universities regularly post geospatial data science postdoc openings  
+  https://iguide.illinois.edu/
 
 ## Miscellaneous
 - **NICE (Nexus for IntelligeCE)**  
