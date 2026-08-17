@@ -137,6 +137,9 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **CHI** — ACM Conference on Human Factors in Computing Systems  
   https://chi2026.acm.org/
 
+- **CIKM** — ACM International Conference on Information and Knowledge Management  
+  http://www.cikmconference.org/
+
 - **CVPR** — IEEE/CVF Conference on Computer Vision and Pattern Recognition  
   https://cvpr.thecvf.com/
 
@@ -149,8 +152,14 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **ICCV** — IEEE/CVF International Conference on Computer Vision  
   https://iccv.thecvf.com/
 
+- **ICDM** — IEEE International Conference on Data Mining  
+  https://icdm.zhonghuapu.com/
+
 - **ICLR** — International Conference on Learning Representations  
   https://iclr.cc/
+
+- **ICML** — International Conference on Machine Learning  
+  https://icml.cc/
 
 - **KDD** — ACM SIGKDD Conference on Knowledge Discovery and Data Mining  
   https://kdd.org/
@@ -158,8 +167,20 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **NeurIPS** — Conference on Neural Information Processing Systems  
   https://neurips.cc/
 
+- **PAKDD** — Pacific-Asia Conference on Knowledge Discovery and Data Mining  
+  https://pakdd.org/
+
+- **SIGIR** — ACM SIGIR Conference on Research and Development in Information Retrieval  
+  https://sigir.org/
+
+- **TheWebConf (WWW)** — The ACM Web Conference  
+  https://thewebconf.org/
+
 - **WACV** — IEEE/CVF Winter Conference on Applications of Computer Vision  
   https://wacv2025.thecvf.com/
+
+- **WSDM** — ACM International Conference on Web Search and Data Mining  
+  https://www.wsdm-conference.org/
 
 ### Workshops and Related Events (2027)
 - **ACM TRUST 2027: Trustworthy Spatial AI Track**<br>
