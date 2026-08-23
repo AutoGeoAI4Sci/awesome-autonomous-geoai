@@ -1019,6 +1019,27 @@ These internships typically emphasize:
 
 > **Note:** Mosaic internships are **hardware-software integrated** and research-driven. They are particularly well suited for students interested in **mobile mapping tools, 3D reconstruction, and GeoAI**, rather than purely theoretical or non-spatial software roles.
 
+### **DT360 / DebrisTech (Scalable Data Acquisition Solutions)**
+*Focus:* Post-Disaster Field Data Acquisition · Mobile Mapping · Corridor LiDAR · Helicopter and All-Terrain Capture · FEMA-Auditable Documentation
+
+**DT360** is the data-acquisition brand operated alongside **DebrisTech, LLC** (founded 2010, headquartered in Picayune, Mississippi). The two businesses sit on either side of the same capability: DebrisTech performs **disaster debris monitoring** — the auditable documentation layer that lets government clients recover FEMA Category A reimbursement for storm debris removal — while DT360 productizes the **field data-collection fleet and sensing stack** that such work requires, and sells it into infrastructure, utility, and transportation markets.
+
+DebrisTech's **Electronic Debris Management System** replaces handwritten load tickets with real-time capture on ruggedized iPads: barcode scanning, timestamped photographs, GPS-tagged locations, and digital signatures, authenticated through a three-factor scheme (serialized physical ticket, registered device, captured signature). Records flow into a central information database whose interactive map exposes the **exact pickup and disposal location of every debris ticket in real time**, backed by mobile command and communications centers for field operation where connectivity is unreliable. Reported operational scale includes **50+ million cubic yards of debris monitored** across **118 counties and municipalities** in roughly **17 states and U.S. territories**.
+
+DT360 operates an **integrated aerial and ground fleet** designed around the premise that the hardest part of disaster and corridor data collection is reaching the scene at all. Road-going mobile mapping vehicles are paired with **off-road and amphibious all-terrain units** (including SHERP ATV/UTV platforms carrying [Mosaic](#mosaic-geospatial-imaging-leaders) 360-degree camera systems) and with **helicopter-based collection** over transmission lines, pipelines, and otherwise inaccessible terrain. Its mobile mapping team reports **250,000+ miles of roadway corridor captured**. Acquired corridor LiDAR is delivered through **Pathfinder**, a hosted platform where clients make their own measurements and flag areas requiring feature extraction; the **I-95 corridor** is published there across all **1,920 miles and 15 states**, aimed at state DOTs, utility providers, and broadband planners.
+
+**Relevant technical themes include:**
+- **Post-disaster reality capture** in degraded, flooded, and debris-obstructed environments where conventional survey vehicles cannot operate
+- **Multi-platform sensor fusion** across vehicle-mounted 360-degree imagery, amphibious ground units, and rotary-wing aerial LiDAR
+- **Corridor-scale LiDAR products** for roadway, transmission-line, pipeline, and broadband planning workflows
+- **Evidence-grade geospatial provenance** — geotagged, timestamped, signature-authenticated records built to survive federal audit
+- **Human-in-the-loop feature extraction**, where clients flag regions in delivered point clouds for downstream extraction work
+
+*Location:* Picayune, Mississippi, USA (nationwide field deployment across U.S. states and territories)<br>
+*Website:* [https://www.dt360.com/](https://www.dt360.com/) · DebrisTech: [https://debristech.com/](https://debristech.com/)
+
+> **Positioning Insight:** DT360 is a useful industry reference for **disaster-response GeoAI** specifically because it operationalizes the unglamorous half of the problem: getting calibrated ground-level and aerial data out of an environment immediately after an event, and attaching provenance strong enough for a reimbursement audit. Research directions it maps onto closely include **debris volume estimation, cross-view (ground/aerial/satellite) damage assessment, post-event change detection, and accountable geospatial pipelines** — areas where academic work is usually bottlenecked by exactly the field data this company is built to produce. Note that DT360 and DebrisTech share leadership and branding but present as separate web properties; confirm the current corporate relationship, and any hiring or internship pathways, directly with the company before relying on it.
+
 ### **Snap Inc.**  
 *Focus:* Computer Vision · AR Systems · Wearable AI · Visual Communication Platforms  
 
@@ -1336,6 +1357,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 - **Mosaic (Geospatial Imaging Leaders)** - Robust 360-degree mobile mapping camera systems and services for street-level imagery, mapping, surveying, infrastructure inspection, 3D reconstruction, and digital twin workflows. See the detailed Mosaic entry above for internship-oriented notes.<br>
   https://www.mosaic51.com/
+
+- **DT360 / DebrisTech** - Scalable field data acquisition across an integrated aerial and ground fleet: road-going mobile mapping vehicles, amphibious all-terrain units carrying 360-degree camera systems, and helicopter-based LiDAR over transmission lines, pipelines, and inaccessible terrain. Reports 250,000+ miles of roadway corridor captured, delivers corridor LiDAR through its Pathfinder platform (including all 1,920 miles of I-95 across 15 states), and pairs this with FEMA-auditable disaster debris monitoring. See the detailed DT360 / DebrisTech entry above for GeoAI-oriented notes.<br>
+  https://www.dt360.com/
 
 - **3GON Slovakia, s.r.o.** - Slovak distributor and integrator for precise measurement, data capture, drones, 3D technologies, software, monitoring, and spatial data processing.<br>
   https://www.3gon.sk/
