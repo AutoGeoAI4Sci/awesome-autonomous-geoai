@@ -1438,6 +1438,8 @@ openings are posted.*
 
 ### Geo-Focused (GIScience · Remote Sensing · Earth Systems)
 
+- **Cornell University, School of Civil & Environmental Engineering — Postdoctoral Associate** *(current opening)* — One-year postdoctoral position, with possible renewal for a total of two years, developing computational models of escalating regional hurricane disaster risk, multi-stakeholder interactions, insurance markets, and public-policy interventions; applications are reviewed immediately until the position is filled
+  https://academicjobsonline.org/ajo/jobs/32321
 - **Yale Center for Geospatial Solutions** — Yale's hub for geospatial data, technology, and policy; hires postdoctoral associates applying geospatial analytics and AI to land, water, climate, and biodiversity challenges  
   https://geospatial.yale.edu/
 - **USGS Mendenhall Research Fellowship Program** — The flagship U.S. Geological Survey postdoc; research opportunities regularly include geospatial science, remote sensing, natural hazards, and machine learning  
