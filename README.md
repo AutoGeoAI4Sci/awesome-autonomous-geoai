@@ -1475,8 +1475,8 @@ openings are posted.*
   https://allenai.org/careers
 - **Harvard Data Science Initiative Postdoctoral Fellows** — Independent data-science research fellowship with freedom to collaborate across Harvard schools; spatial data science and urban analytics are represented themes  
   https://datascience.harvard.edu/
-- **AcademicJobsOnline** *(job board)* — Aggregator widely used for postdoc listings in computer science, data science, and the Earth sciences  
-  https://academicjobsonline.org/
+- **AcademicJobsOnline** *(postdoc and academic job board)* — Application portal serving academic institutions worldwide, with postdoctoral openings across computer science, data science, Earth sciences, and related fields<br>
+  https://academicjobsonline.org/ajo
 
 ### Open-Discipline Fellowships (Fit Either Track)
 
