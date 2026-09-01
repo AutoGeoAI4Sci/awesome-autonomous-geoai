@@ -745,6 +745,32 @@ For GeoAI and computer vision researchers, Niantic Spatial is relevant to proble
 
 > **Note:** Niantic Spatial should be understood not just as an AR company descendant, but as a leading **spatial foundation-model and physical-AI infrastructure company**. It is highly relevant for work on GeoAI, digital twins, robotics perception, and large-scale spatial representation learning.
 
+### **MultiSet AI**
+*Focus:* Visual Positioning System · 6-DoF Relocalization · Scan-Agnostic Mapping · Physical AI Infrastructure · Robotics and XR
+
+MultiSet AI builds a **scan-agnostic Visual Positioning System (VPS)** and positions it as an *independent spatial infrastructure layer for Physical AI*: given an existing capture of a space, client devices relocalize against a shared map with claimed sub-5 cm, 6-DoF accuracy. Its stated differentiator is ingestion breadth rather than capture ownership - the pipeline accepts LiDAR, E57, Gaussian splats, 360 video, textured meshes, iPhone scans, and drone captures, and interoperates with Matterport, NavVis, and Leica data, so no proprietary capture app is required. The company explicitly frames itself as an alternative to Vuforia and Azure Spatial Anchors, unbound to any reality-capture vendor, hyperscaler, or headset OEM.
+
+For Autonomous GeoAI research, the notable point is that MultiSet occupies the **localization** segment of the reconstruct-localize-understand stack and treats it as a metered commodity: one SDK spans Unity, Web, iOS, Android, Quest, and **ROS2**, with managed-cloud, private-cloud, and fully offline air-gapped deployment. The presence of ROS2 alongside headset targets is itself evidence that this layer now serves human-in-the-loop and robotic consumers from the same artifact.
+
+**Relevant technical themes include:**
+- Visual place recognition and 6-DoF relocalization under low light, weather, occlusion, and fast motion
+- Cross-source map fusion across LiDAR, photogrammetry, GNSS, and third-party scan formats
+- Multi-floor persistence, indoor-outdoor transition, and campus-to-city scale mapping
+- Map maintenance under change, including auto-registered re-maps that preserve anchors
+- Shared spatial ground truth across workers, AMRs, drones, and cobots
+- On-device and air-gapped spatial services for regulated or network-denied environments
+
+*Location:* San Francisco, CA
+*Founded:* 2024; CEO Nikhil Sawlani, previously VP of AR Development at Nextech AR Solutions
+*Funding:* USD 250K pre-seed (a16z Scout Fund, Nivesha Ventures, and angel investor Bilawal Sidhu)
+*Website:* https://multiset.ai/
+*Product page:* https://multiset.ai/visual-positioning-system
+*Pricing:* https://multiset.ai/pricing
+
+> **Positioning Insight:** MultiSet is a clean specimen of the localization layer having found an owner and a price. More instructive for this repository is how it handles a changing world: its own materials sell *change tolerance with minimal re-scans* and *auto-registered re-maps that preserve every anchor*. That is prior invalidation treated as a re-scan cost to be reduced, not as a belief to be updated - the product answers *how cheaply can we re-measure*, never *how much of the prior still holds and where should we look to repair it*. The distinction matters because the second question is what an observation-scheduling or next-best-view system would have to answer, and it is not what this layer is being sold to do.
+
+> **Note:** Accolades and customer outcomes stated on the company site (AREA 2025 "Most Robust VPS", Auggie Awards 2026 Best Developer Tool, named users including AstraZeneca and Bosch, and a reported 2.5x technician productivity gain) are company-reported and not independently verified here.
+
 ### **WAYZ.AI (维智科技)**
 *Focus:* Spatiotemporal AI · Urban Digital Twins · Spatial Knowledge Graphs · Decision Intelligence · IoT Positioning
 
@@ -1360,6 +1386,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 - **DT360 / DebrisTech** - Scalable field data acquisition across an integrated aerial and ground fleet: road-going mobile mapping vehicles, amphibious all-terrain units carrying 360-degree camera systems, and helicopter-based LiDAR over transmission lines, pipelines, and inaccessible terrain. Reports 250,000+ miles of roadway corridor captured, delivers corridor LiDAR through its Pathfinder platform (including all 1,920 miles of I-95 across 15 states), and pairs this with FEMA-auditable disaster debris monitoring. See the detailed DT360 / DebrisTech entry above for GeoAI-oriented notes.<br>
   https://www.dt360.com/
+
+- **MultiSet AI** - Scan-agnostic Visual Positioning System providing 6-DoF relocalization against maps built from third-party captures (LiDAR, E57, Gaussian splats, 360 video, iPhone and drone scans), delivered through one SDK spanning Unity, Web, mobile, Quest, and ROS2, with cloud, private-cloud, and air-gapped on-device deployment. See the detailed MultiSet AI entry above for GeoAI-oriented notes.<br>
+  https://multiset.ai/
 
 - **3GON Slovakia, s.r.o.** - Slovak distributor and integrator for precise measurement, data capture, drones, 3D technologies, software, monitoring, and spatial data processing.<br>
   https://www.3gon.sk/
