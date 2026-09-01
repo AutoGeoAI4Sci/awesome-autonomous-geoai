@@ -800,5 +800,9 @@ leomessi：
 阿根廷加油！
 *这些话我写于7月21日，也就是决赛结束两天后。今天在我父亲的事情发生后，我比以往任何时候都更加坚定这一决定。
 
+大鹏一日同风起，扶摇直上九万里。假令风歇时下来，犹能簸却沧溟水。世人见我恒殊调，闻余大言皆冷笑。宣父犹能畏后生，丈夫未可轻年少。
+
+人有自由意志，相伴的是重大的责任和重大的损失。We have free will. And with that comes great responsibility and sometimes great loss. 疑犯追踪
+
 
 ↑ [Back to Top · 返回目录](#top)
