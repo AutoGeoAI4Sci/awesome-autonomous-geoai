@@ -611,6 +611,9 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
 - **CesiumJS** — Open-source JavaScript library for 3D globes and maps; renders high-precision geospatial data and 3D tiles in the browser for visualization and digital-twin applications  
   https://cesium.com/platform/cesiumjs/
 
+- **Splat.js** — MIT-licensed WebGPU library from Arrival.Space that runs the whole 3D Gaussian Splatting pipeline in a browser tab: SIFT structure-from-motion for pose estimation, then 3DGS training, with no server-side reconstruction step. Relevant when field imagery must be turned into a shareable scene without a CUDA workstation or an upload to a third-party cloud, and for teaching reconstruction interactively.  
+  https://github.com/arrival-space/splat.js
+
 ### Generative Earth & World Models
 
 > Platforms where generative models are conditioned on real geospatial data
@@ -624,6 +627,20 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
   study in provenance and governance for geo-referenced generative imagery.<br>
   🔗 https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/<br>
   📰 Hands-on: https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/
+
+- **World Labs — Marble** — Generative world model that turns text, a single image, video, or a
+  360-degree panorama into a persistent, explorable 3D scene, exportable from the browser as
+  Gaussian splats (.ply / .spz, full ~2M-splat or a 500k real-time variant), polygonal mesh, or
+  video. Founded by Fei-Fei Li with Justin Johnson, Ben Mildenhall, and Christoph Lassner; an API
+  platform and **Spark**, an MIT-licensed 3DGS renderer for three.js, are published alongside it.<br>
+  **Caveat for geospatial use:** unlike the Google Earth entry above, Marble is *not* conditioned on
+  geo-referenced input — no CRS, no georeferencing, no terrain or camera-pose grounding in real
+  coordinates. Output is plausible geometry, not measured geometry, so it belongs in visualization,
+  scenario communication, and synthetic-data workflows rather than anywhere a coordinate is load-bearing.
+  That gap between world models and geodetic grounding is currently one of the more interesting open
+  problems for autonomous GeoAI.<br>
+  🔗 https://www.worldlabs.ai/<br>
+  🛠 Spark renderer: https://sparkjs.dev/
 
 
 ## Internship and Company
