@@ -222,8 +222,9 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **KDD – AI for Sciences Track (KDD 2026 Track)** — A new peer-reviewed track at KDD 2026 focusing on AI for scientific discovery, interdisciplinary AI applications (including climate, environmental science, and related data-driven research); accepted papers are included in the ACM Digital Library and indexed by Google Scholar.  
     https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/?utm_source=chatgpt.com
 
-- **SensAI Hack** — An AI-focused hackathon bringing together developers, researchers, and builders to prototype applied AI projects; a venue for hands-on experimentation with autonomous and agentic systems.  
-  https://sensaihack.com/
+- **SensAI Hackademy — SensAI Hack / Worlds in Action Hack** — A recurring AI and spatial-computing hackathon series bringing together developers, researchers, and builders to prototype applied AI projects; a venue for hands-on experimentation with autonomous and agentic systems, world models, 3D Gaussian splatting, and reality-capture pipelines.<br>
+  The **Worlds in Action Hack [02-LA]: SIGGRAPH Edition** ran July 18–19, 2026 at the ASU California Center in Downtown Los Angeles (warm-up workshops and team formation on July 17), presented by SensAI Hackademy with Poeia XR and Machine Cinema, with roughly $17K in prizes across six tracks: filmmaking and entertainment, gaming and UGC, interactive ads and brand activations, world models and 3D GenAI, agentic interfaces, and 3D reconstruction. A San Francisco edition runs separately.<br>
+  https://sensaihack.com/ · https://sensaihack.com/worldsinaction-2-la/
 
 
 ### Workshops and Related Events (2025)
@@ -1413,6 +1414,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 - **Blurry** - Browser-based hosting, sharing, and embedding for 3D Gaussian Splatting models, relevant to publishing and viewing 3DGS outputs from reality capture workflows.<br>
   https://www.useblurry.com/
 
+- **Arrival.Space (Stratum1 GmbH)** - Graz-based social 3D platform for publishing, editing, and exploring 3D Gaussian Splatting scenes on the immersive web: browser-based avatar navigation on desktop, mobile, and VR, mixed-media embedding (video, 360-degree content, PDF), and multi-user collaboration in shared spaces, on a freemium model whose Pro tier adds conversational AI, custom collision, and creator monetization. Also publishes **Splat.js**, an MIT-licensed WebGPU library that runs SIFT structure-from-motion and 3DGS training entirely in a browser tab. Relevant to zero-install reality-capture pipelines and web-native delivery of 3DGS field data, where a scene must be shared with non-specialist stakeholders without a desktop viewer or headset build.<br>
+  https://arrival.space/
+
 #### Drone Data and Aerial Capture
 
 - **AVAG** - Drone data platform for photogrammetric processing, spatial data delivery, CAD/WMS/3D model workflows, terrain analysis, volume calculations, cross-sections, and 2D/3D vectorization.<br>
@@ -1572,6 +1576,13 @@ openings are posted.*
   Rather than processing raw satellite imagery, practitioners can leverage precomputed embeddings for downstream tasks such as land cover classification, change detection, and similarity search. The post compares leading embedding datasets — Google's AlphaEarth, OlmoEarth, and Clay — and clarifies the distinction between pixel-level and patch-level embeddings, with practical guidance for environmental monitoring and urban analysis workflows.
 
   *Keywords:* Geospatial Embeddings, Geospatial Foundation Models, Earth Observation, Self-Supervised Learning, AlphaEarth, OlmoEarth, Clay, Change Detection
+
+- **Phoenix: Rising and Rebuilding (Worlds in Action Hack LA, 2026)** — A wildfire-resilience project built at the SensAI Hackademy hackathon in Los Angeles, pairing an XR-accessible narrative of one Topanga homeowner's post-fire recovery with a rebuilding toolkit (fire-resistant materials, defensible landscaping, structural recovery) and an interactive "Design Your Dream Home" scene hosted on Arrival.Space; the project page also ships a browser-based Pico headset emulator for WebXR prototyping. Built by Ray Aschheim, Amir Mohideen Basheer Khan, Josette Seitz, and Evo Heyning with XGRIDS, Tripo3D, Pico, Arrival.Space, and World Labs.<br>
+  Useful as a small, concrete example of reality capture and 3DGS web delivery aimed at hazard communication and community recovery rather than measurement alone — a complement to the hazard-analysis framing of the OASIS Track A challenge above.<br>
+  🔗 https://phoenixbuild.lovable.app/<br>
+  🧭 Immersive scene: https://arrival.space/phoenixla
+
+  *Keywords:* Wildfire Resilience, Disaster Recovery, 3D Gaussian Splatting, WebXR, Reality Capture, Risk Communication
 
 - **GeoGuess Lite** — A lightweight, subscription-free online geography guessing game inspired by GeoGuessr, letting users explore random locations and test their spatial/geographic intuition without limits.  
   https://geoguesslite.com/
