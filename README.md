@@ -113,7 +113,7 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://www.isprs.org/society/congress.aspx
   
 - **GIScience** – International Conference on Geographic Information Science  
-  https://giscience2025.org/
+  https://giscience2027.org/
   
 - **International Cartographic Conference (ICC)** — Conference of the International Cartographic Association  
   https://icaci.org/icc/
