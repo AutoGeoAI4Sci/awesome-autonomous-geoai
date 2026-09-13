@@ -1525,8 +1525,44 @@ openings are posted.*
   https://allenai.org/careers
 - **Harvard Data Science Initiative Postdoctoral Fellows** — Independent data-science research fellowship with freedom to collaborate across Harvard schools; spatial data science and urban analytics are represented themes  
   https://datascience.harvard.edu/
+- **Eric & Wendy Schmidt AI in Science Postdoctoral Fellowship (Schmidt Sciences)** — Large multi-site program supporting roughly 160 postdoctoral fellows a year across nine partner universities; U.S. hosts include the University of Chicago, University of Michigan, UC San Diego, and Cornell. Designed for researchers bringing AI into a scientific domain, so Earth-observation, climate, and geospatial topics are squarely in scope. Each host runs its own annual cycle, typically opening in late summer and closing in the autumn, and most require a faculty mentor to sponsor the application. Distinct from the Schmidt Science Fellows program listed under Open-Discipline Fellowships below  
+  https://www.schmidtsciences.org/schmidt-ai-in-science-postdocs/
+- **Kempner Institute Research Fellowship (Harvard University)** — Independent fellowship of up to three years with salary, research funds, and compute, for postdocs working on the foundations of intelligence or applications of AI — LLMs, generative AI, deep-learning theory, and AI applied to high-dimensional scientific data; annual cycle closing around October 1  
+  https://kempnerinstitute.harvard.edu/
+- **Princeton Language and Intelligence (PLI) — AI Postdoctoral Research Fellows** — Fellows join Princeton's core PLI team with access to the AI Lab GPU cluster; projects span language, vision, multimodal data, code, and scientific data, plus AI safety and alignment. One-year appointments renewable subject to performance and funding  
+  https://pli.princeton.edu/
+- **Stanford HAI & Stanford Data Science Postdoctoral Fellowships** — Two complementary Stanford routes: HAI funds human-centered AI postdocs at intersections that traditional departments overlook, while Stanford Data Science runs its own annual postdoctoral fellows cohort spanning causal inference, statistics, and machine learning  
+  https://hai.stanford.edu/ · https://datascience.stanford.edu/
+- **Johns Hopkins Data Science and AI Institute (DSAI) Postdoctoral Fellowship** — Two-year fellowship, extendable, for scholars advancing foundational data science and AI methods and their applications across science, health, engineering, policy, and ethics; applicants name two to three DSAI faculty as prospective mentors. Part of a major Whiting School expansion that includes 80 new DSAI faculty positions  
+  https://ai.jhu.edu/
+- **NYU Center for Data Science — Faculty Fellows** — Two-year independent research position (postdoc-equivalent with faculty title) carrying research funding and a light one-course-per-year teaching load; areas include machine learning, NLP, deep-learning theory, applications to the natural and social sciences, and responsible AI  
+  https://cds.nyu.edu/faculty-fellows/
+- **University of Chicago Data Science Institute — Postdoctoral Scholars** — Research-only appointments with no teaching obligation, competitive salary, and research allowances, for scholars advancing data science and AI methods or their application to real-world problems; a faculty letter of collaboration is optional but helps  
+  https://datascience.uchicago.edu/about/jobs/postdoc/
+- **Simons Institute for the Theory of Computing (UC Berkeley) — Research Fellowships** — Fellowships for early-career researchers in three tracks: semester-long programmatic fellowships tied to the Institute's thematic programs, quantum research fellowships, and machine learning research fellowships  
+  https://simons.berkeley.edu/participate/postdoctoral-research-fellowships
+- **Flatiron Institute Research Fellowships (Simons Foundation, New York)** — Three-year fellowships across the Institute's centers; the Center for Computational Mathematics covers optimization, learning theory, probabilistic modeling, deep learning, and high-dimensional data analysis, with substantial in-house scientific computing and freedom to pursue an independent program  
+  https://www.simonsfoundation.org/flatiron/
+- **NSF National AI Research Institutes** — A network of NSF-funded AI institutes whose partner universities post postdoc openings year-round. AI2ES (Trustworthy AI in Weather, Climate, and Coastal Oceanography) is the most directly GeoAI-relevant, hiring at the intersection of AI/ML, Earth science, and responsible-AI practice  
+  https://www.nsf.gov/focus-areas/artificial-intelligence
+- **Argonne National Laboratory — Maria Goeppert Mayer Fellowship** — Argonne's flagship named postdoctoral fellowship, awarded to outstanding early-career scientists across the laboratory's mission areas, including AI/ML and the exascale computing work at the Argonne Leadership Computing Facility; applications close around October 1 each year  
+  https://www.anl.gov/hr/maria-goeppert-mayer-fellowship
+- **Lawrence Livermore National Laboratory — Lawrence Fellowship** — Three-year fellowship open to all technical disciplines, with only two to four awarded annually, giving fellows freedom to define their own research; LLNL also runs a large regular postdoc program with standing openings in scientific machine learning. Applications close around October 1  
+  https://st.llnl.gov/opportunities/postdocs/postdoc-program/lawrence-fellowship
+- **Los Alamos National Laboratory — Postdoc Program and Distinguished Fellowships** — LANL runs one of the largest national-lab postdoc programs, with standing openings in agentic AI, generative models, computer vision, and AI for materials and simulation; exceptional candidates may be considered for the Director's Postdoc Fellowship or the named Oppenheimer, Feynman, Reines, and Hoffman Distinguished Fellowships. Application windows recur through the year  
+  https://www.lanl.gov/careers · https://lanl.jobs/
+- **NRC Research Associateship Programs (National Academies)** — Competitive two-year federal postdoctoral awards placing associates in U.S. government laboratories including NIST, NASA, NOAA, and the service research labs; the NIST Information Technology Laboratory hosts AI, machine learning, and trustworthy-AI opportunities. Two application deadlines a year, February 1 and August 1  
+  https://sites.nationalacademies.org/pga/rap/
+- **Amazon Postdoctoral Science Program** — One-year industry research appointments, typically extendable to a second year, for PhDs within about two years of graduation; open roles span machine learning, computer vision, robotics, optimization, and operations research  
+  https://www.amazon.science/postdoctoral-science-program
+- **IBM Research — Herman Goldstine Memorial Postdoctoral Fellowship** — Long-running one-year fellowship in the mathematical sciences at IBM Research, centered on the theory of algorithms and algorithm design, with resident access to IBM's research laboratories  
+  https://research.ibm.com/goldstine
 - **AcademicJobsOnline** *(postdoc and academic job board)* — Application portal serving academic institutions worldwide, with postdoctoral openings across computer science, data science, Earth sciences, and related fields<br>
   https://academicjobsonline.org/ajo
+- **AAAI Career Center** *(job board)* — Job board of the Association for the Advancement of Artificial Intelligence; the most AI-specific venue for postdoc, research scientist, and faculty listings, updated daily  
+  https://careers.aaai.org/
+- **CRA Career Center** *(job board)* — Computing Research Association board covering computing research positions across academia, national laboratories, and industry  
+  https://careercenter.cra.org/
 
 ### Open-Discipline Fellowships (Fit Either Track)
 
