@@ -16,6 +16,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
 > 📘 **Core Documents**
 > - **[Research Philosophy](RESEARCH_PHILOSOPHY.md)** — Vision, ambition, and guiding research principles
 > - **[Research Philosophy Summary (中文整理)](RESEARCH_PHILOSOPHY_SUMMARY_ZH.md)** — 中文提炼版，聚焦核心科研观、GeoAI 框架与论文定位
+> - **[Research Positioning (中文推演稿)](RESEARCH_POSITIONING_ZH.md)** — 博士代表作与研究入口的推演：3D 视觉语言推理、灾害赛道痛点、具身智能与自主测图
 
 ## Contents
 
@@ -853,6 +854,27 @@ For autonomous GeoAI research, Teleport is notable as one of the first **product
 
 > **Positioning Insight:** Varjo Teleport shows radiance-field methods (3DGS) crossing from research demos into a **scalable commercial reconstruction service**. For GeoAI researchers it is a useful reference point for what production 3DGS pipelines deliver at aerial scale — and a potential source of photorealistic scene data for simulation, synthetic training data, and digital-twin work.
 
+### **KIRI Innovation / Remy**
+*Focus:* 3D Gaussian Splatting · Consumer Reality Capture · On-Device Rendering · Mobile OS Integration · Spatial Memory
+
+KIRI Innovation (麒砺创新), founded in 2018 in Canada with operations in Shenzhen, builds low-cost 3D scanning products: **KIRI Engine**, a cross-platform 3D scanner app for professionals (photogrammetry and 3DGS, 1.3M+ downloads since 2021, freemium), and **Remy**, a consumer "3D spatial memory" app developed with Huawei and released exclusively on HarmonyOS 6 at the October 22, 2025 launch event. Users circle a subject with the phone camera as if recording a video; the cloud reconstructs a 3D Gaussian Splatting scene in roughly five minutes, and Huawei's **Ark Image Engine** renders it on-device in an Interactive Photo format that lives directly in the native Gallery, with 360-degree viewing, zoom, and first-person walkthrough. Scenes are shared through the system share sheet or device-to-device tap, and recipients can view them without installing the app.
+
+For autonomous GeoAI research, Remy is the clearest data point so far on **3DGS reaching mass consumer scale**: a 20-person team hit one million users nine days after launch, topped the Huawei AppGallery download chart above WeChat for three days, and peaked at about 1,900 GPUs of elastic compute during the launch surge. Reconstruction, once a workstation task, is now a system-level phone feature. The limits are equally informative: only static subjects are supported, dynamic reconstruction is described by the founder as years away, and the app records the world as it is rather than reasoning about how it has changed. The February 2026 release added multi-person and room scanning; the September 2026 release (v1.9.0) added on-device local reconstruction on Kirin 9010s and later chips, an outdoor mode, ten-minute captures, and import of panoramic and aerial video, which opens a phone-native path from drone footage to a navigable 3DGS scene.
+
+**Relevant technical themes include:**
+- Consumer-grade 3D Gaussian Splatting (capture → cloud or on-device reconstruction → real-time mobile rendering)
+- OS-level integration of 3D scene formats (gallery, share sheet, tap-to-share)
+- Elastic GPU scheduling under bursty consumer demand
+- Aerial and panoramic video as reconstruction input on mobile
+- Delivery layer for spatial intelligence: 3D content that non-specialists capture, keep, and share
+
+*Location:* Shenzhen, China (founded in Canada)
+*Website:* https://www.kiriengine.app/
+*Remy (Baidu Baike):* https://baike.baidu.com/item/Remy/66930437
+*Founder interview:* https://news.qq.com/rain/a/20260214A02TMY00
+
+> **Positioning Insight:** Remy shows the reconstruction layer of the spatial-intelligence stack becoming a commodity phone feature. What it does not attempt, reasoning about a scene that has changed since the last capture, is exactly the layer disaster GeoAI has to own. It also demonstrates the "anti-propagation" problem of 3D content on 2D social platforms, which the team addresses with templated effect videos; any research delivering 3D outputs to the public faces the same gap.
+
 ### **Texas A&M Institute for a Disaster Resilient Texas (IDRT)**  
 *Focus:* Disaster Resilience · GeoAI · Hazard Analytics · Decision Support Systems  
 
@@ -1415,6 +1437,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 - **Varjo Teleport** - Cloud reality-capture platform turning phone, drone, or camera captures into photorealistic, real-time-streamable 3D Gaussian Splatting models, with drone-based multi-square-kilometre aerial reconstruction and a developer API (see full profile above).<br>
   https://get.teleport.varjo.com/
+
+- **KIRI Innovation / Remy** - Shenzhen and Canada based 3D scanning company behind KIRI Engine (professional photogrammetry and 3DGS scanner app) and Remy, the Huawei-partnered HarmonyOS-exclusive consumer 3DGS app that reconstructs a scene from a circling phone video in about five minutes, renders it on-device via the Ark Image Engine inside the native Gallery, reached one million users in nine days, and since September 2026 supports on-device reconstruction and aerial or panoramic video import (see full profile above).<br>
+  https://www.kiriengine.app/
 
 - **XGRIDS** - SLAM-based handheld LiDAR scanning, real-time 3D reconstruction, Lixel scanners, and 3D Gaussian Splatting-oriented spatial computing tools.<br>
   https://www.xgrids.com/
