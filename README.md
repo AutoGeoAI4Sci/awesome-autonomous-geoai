@@ -40,6 +40,8 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
   - [Generative Earth & World Models](#generative-earth--world-models)
+- [Datasets and Data Sources](#datasets-and-data-sources)
+  - [Post-Disaster Imagery: Where to Look First](#post-disaster-imagery-where-to-look-first)
 - [Internships & Companies](#internship-and-company)
   - [PhD and Academic Career Resources](#phd-and-academic-career-resources)
   - [Geospatial / Physical AI Companies](#geospatial--physical-ai-companies)
@@ -642,6 +644,71 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
   problems for autonomous GeoAI.<br>
   🔗 https://www.worldlabs.ai/<br>
   🛠 Spark renderer: https://sparkjs.dev/
+
+
+## Datasets and Data Sources
+
+> Where to find data first. For an autonomous GeoAI agent operating in a disaster
+> workflow, **data discovery is the first tool call**, and hours-to-data usually matters
+> more than the last decimal of spatial resolution.
+
+### Post-Disaster Imagery: Where to Look First
+
+*After a major earthquake, flood, landslide, typhoon, or wildfire, the practical question is
+rarely "how do I process the imagery" but "where is the newest imagery." The entries below
+are ordered by **workflow stage** rather than alphabetically: locate the event, pull free
+medium-resolution data, check for finished analysis products, then go after commercial
+sub-meter scenes. Adapted from a Chinese-language overview of public disaster-imagery channels.*
+
+**1. Locate the event and get a first look**
+
+- **GDACS (Global Disaster Alert and Coordination System)** — UN-backed global entry point for major disasters (earthquakes, floods, tropical cyclones, volcanoes, wildfires). A world map of recent events with impact estimates and links onward to remote-sensing and emergency-mapping responses. Not an imagery portal, but the right first stop when you only know that "something happened somewhere."  
+  https://www.gdacs.org/
+
+- **NASA Worldview** — Browser viewer for near-real-time MODIS, VIIRS, and other global layers. Coarse resolution, but the fastest way to judge the macro picture of a large wildfire, volcanic plume, dust storm, typhoon, or flood before downloading anything.  
+  https://worldview.earthdata.nasa.gov/
+
+- **NASA FIRMS (Fire Information for Resource Management System)** — Global active-fire detections from MODIS and VIIRS with download and API access. The standard source for locating wildfire fronts and for seeding a later high-resolution imagery search.  
+  https://firms.modaps.eosdis.nasa.gov/
+
+**2. Free medium- and high-resolution satellite data**
+
+- **Copernicus Data Space Ecosystem** — Official EU portal for the Sentinel missions. Sentinel-1 SAR sees through cloud during floods; Sentinel-2 10 m multispectral supports water, vegetation, bare-soil, and post-event surface-change extraction. Free and open; the Copernicus Browser handles search and preview.  
+  https://dataspace.copernicus.eu/ · Browser: https://browser.dataspace.copernicus.eu/
+
+- **USGS EarthExplorer** — Classic archive search over Landsat and many other collections. Its main value in disaster work is the **pre-event baseline**: change analysis needs a before image as much as an after image.  
+  https://earthexplorer.usgs.gov/
+
+- **Sentinel Hub** — API-first access to Sentinel, Landsat, and commercial collections for batch retrieval and integration into Python, GIS, and web pipelines. Preferable to manual downloads when an area must be monitored continuously rather than sampled once.  
+  https://www.sentinel-hub.com/
+
+- **OpenAerialMap** — Open repository of aerial and drone imagery. For small-footprint events (debris flows, landslides, bridge and road failures) a drone team on site often beats any satellite on resolution; check here for centimeter-level captures.  
+  https://openaerialmap.org/
+
+**3. Finished analysis products from emergency-mapping services**
+
+- **Copernicus Emergency Management Service (CEMS)** — Rapid Mapping and Risk & Recovery products for floods, earthquakes, landslides, fires, and storms: pre-, during-, and post-event maps of flood extent, building damage, and road damage, free to download. The place to look when you want the delineation, not the raw scene.  
+  https://emergency.copernicus.eu/
+
+- **UNOSAT (UN Satellite Centre)** — UNITAR's satellite-analysis arm. Produces building-damage assessments, flood extents, and infrastructure-impact maps from pre-/post-event high-resolution imagery once an event enters the international humanitarian response.  
+  https://unosat.org/
+
+- **International Charter "Space and Major Disasters"** — Activation mechanism through which member and contributing agencies (Airbus, BlackSky, Copernicus, ICEYE, Maxar/Vantor, Planet, Satellogic, Chang Guang, and others) task satellites for a declared disaster. Public users get activation records, map products, and a deep archive of past responses, useful both for current leads and for historical case studies.  
+  https://disasterscharter.org/
+
+**4. Commercial meter- and sub-meter imagery**
+
+- **Planet Disaster Data** — Planet's high-revisit fleet is the practical choice when *temporal* resolution matters: continuous pre-, during-, and post-event coverage for floods, earthquakes, eruptions, fires, and hurricanes. Selected major events are released as open data; most scenes remain licensed.  
+  https://www.planet.com/disasterdata/
+
+- **Vantor (formerly Maxar Intelligence) / Maxar Open Data Program** — WorldView-class sub-meter imagery for building, road, bridge, and levee change detection. The open-data program has released pre-/post-event imagery for major disasters, mirrored on AWS; other scenes are commercial or reached through emergency partnerships.  
+  https://www.vantor.com/ · Open data mirror: https://registry.opendata.aws/maxar-open-data/
+
+- **SkyFi** — Aggregator and marketplace for commercial satellite imagery. Search a location across multiple providers, buy existing archive scenes, or task a new collection without maintaining separate vendor accounts. Convenient for one-off "is there a recent sub-meter scene over this town" checks.  
+  https://skyfi.com/
+
+- **Vendor disaster programs (Airbus, BlackSky, ICEYE, Chang Guang / Jilin-1)** — Commercial operators periodically open imagery or launch event-specific data programs after major earthquakes, floods, hurricanes, and fires. Availability is ad hoc, so bookmark the vendor pages and check them per event rather than relying on a single portal.  
+  https://oneatlas.airbus.com/ · https://www.blacksky.com/ · https://www.iceye.com/ · https://www.jl1.cn/
 
 
 ## Internship and Company
