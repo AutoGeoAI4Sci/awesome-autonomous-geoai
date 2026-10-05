@@ -1670,6 +1670,8 @@ openings are posted.*
   https://www.humboldt-foundation.de/
 - **Royal Society Newton International Fellowships** — Two-year fellowship for early-career researchers moving to the UK in the natural sciences  
   https://royalsociety.org/grants-schemes-awards/grants/newton-international/
+- **MBZUAI Ruwwad AI Scholars (RAIS) Postdoctoral Fellowship** — Two-year, fully funded postdoc placed at leading research institutions worldwide, run by Mohamed bin Zayed University of Artificial Intelligence to build the UAE's future AI faculty. Open to researchers from any discipline who want to bring AI and computational methods into their work, so prior AI specialization is not required. The fellowship covers stipend, research funds, insurance, relocation, and conference travel at no cost to the host. *Eligibility is restricted to UAE nationals* who completed their PhD between spring 2024 and spring 2026; applications for the second cohort are open. Contact: RAIS@mbzuai.ac.ae  
+  https://mbzuai.ac.ae/admissions/ruwwad-ai-scholars-postdoctoral-fellowship
 
 ## Miscellaneous
 - **NICE (Nexus for IntelligeCE)**  
