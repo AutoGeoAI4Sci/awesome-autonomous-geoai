@@ -49,7 +49,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
 - [Postdoc Opportunities](#postdoc-opportunities)
   - [Geo-Focused (GIScience · Remote Sensing · Earth Systems)](#geo-focused-giscience--remote-sensing--earth-systems)
-  - [China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence](#china--hong-kong-top-tier-postdoctoral-opportunities-in-ai-geoai-and-spatial-intelligence)
+  - [Mainland China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence](#mainland-china--hong-kong-top-tier-postdoctoral-opportunities-in-ai-geoai-and-spatial-intelligence)
   - [AI-Focused (Computer Science · Machine Learning)](#ai-focused-computer-science--machine-learning)
   - [Open-Discipline Fellowships (Fit Either Track)](#open-discipline-fellowships-fit-either-track)
 - [Miscellaneous](#miscellaneous)
@@ -1627,64 +1627,73 @@ posted. Check the official page before applying because deadlines and funding ca
 - **Earthworks** *(job board)* — Long-running international job board for geoscience, remote sensing, and GIS positions  
   https://www.earthworks-jobs.com/
 
-### China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence
+### Mainland China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence
 
 *中国大陆与香港：顶尖 AI、GeoAI 与空间智能博士后机会*
 
 *This shortlist is intentionally limited to top Chinese and Hong Kong universities,
 national research institutes, major AI laboratories, and selected enterprise postdoctoral
-stations. The order prioritizes fit with multimodal vision, generative models, spatial
-intelligence, reliable AI agents, disaster intelligence, and autonomous systems.*
+stations. The order below is optimized for future entrepreneurship rather than academic
+prestige alone: it prioritizes foundational AI, multimodal vision, spatial intelligence,
+deployable systems, access to real-world data, industry partnerships, and incubation
+potential.*
 
 *中国版：本清单聚焦中国大陆与香港的顶尖高校、国家级科研机构、头部 AI 实验室
-和企业博士后工作站。条目按照与多模态视觉、生成式模型、空间智能、可靠 AI
-智能体、灾害智能和自主系统的匹配度排序。*
+和企业博士后工作站。以下排序不是单纯的学校排名，而是优先考虑前沿 AI 能力、
+多模态视觉、空间智能、可部署系统、真实产业数据、产业合作和创业孵化潜力。*
 
-#### Priority Groups: Direct Fit / 第一优先级：高度匹配
+#### Entrepreneurial Priority: AI Platforms, Vision, and Spatial Intelligence / 第一优先级：创业潜力、AI 平台、视觉与空间智能
 
-- **Tsinghua University SIGS — Weijia Li Research Group** *(ongoing postdoc recruitment)* — Computer vision, deep learning, urban remote sensing, multimodal foundation models, generative models, and AI agents; the closest direct match for the satellite–street–multimodal–agentic arc of Autonomous GeoAI<br>中文：计算机视觉、深度学习、城市遥感、多模态基础模型、生成式模型和 AI 智能体；与卫星–街景–多模态–智能体这一 Autonomous GeoAI 研究主线高度匹配<br>
+*For a future startup, the strongest combination is usually foundational AI plus a defensible vertical problem, proprietary data, and a path to deployment. The groups below offer the best balance of those ingredients.*
+
+*如果目标是未来创业，最有价值的组合通常是：底层 AI 能力 + 可形成壁垒的垂直问题 + 独特数据 + 可部署系统。以下课题组综合这几个因素排序。*
+
+- **Shanghai Artificial Intelligence Laboratory** *(global AI recruitment and research tracks)* — Foundation models, multimodal models, physical-world models, embodied intelligence, trustworthy AI, AI for Science, scientific agents, open-source ecosystems, and explicit industry incubation; the strongest overall platform for building frontier AI capability before starting a company<br>中文：基础模型、多模态模型、物理世界模型、具身智能、可信 AI、AI for Science、科学智能体、开源生态和产业孵化；如果未来想创业，这是综合技术、算力、开源生态与产业转化能力最强的平台之一<br>
+  https://www.shlab.org.cn/joinus
+- **Huawei Postdoctoral Research Workstation** *(enterprise postdoctoral station)* — AI image compression, explainable AI, machine learning, dynamic high-definition maps, reconstruction and simulation, joint university–industry supervision, and access to large-scale product and engineering scenarios; the strongest direct industry route for learning commercialization<br>中文：AI 图像压缩、可解释 AI、机器学习、动态高精地图、重建与仿真，采用高校与企业双导师制，并能接触大规模产品和工程场景；是学习产业化和创业落地最直接的企业博士后路径<br>
+  https://career.huawei.com/reccampportal/portal5/postdoc.html
+- **Beijing Academy of Artificial Intelligence (BAAI / 智源研究院) — Graph Science Lab** *(periodic postdoc recruitment; verify intake)* — AI spatiotemporal foundation models, multimodal remote sensing, and agents; a rare combination of foundation-model research and a potentially defensible spatial-intelligence vertical<br>中文：AI 时空大模型、多模态遥感和智能体；兼具基础模型研究和可形成数据与场景壁垒的空间智能垂直方向，创业潜力很强<br>
+  https://hub.baai.ac.cn/view/57824
+- **Tsinghua University SIGS — Weijia Li Research Group** *(ongoing postdoc recruitment)* — Computer vision, deep learning, urban remote sensing, multimodal foundation models, generative models, and AI agents; the best direct match for developing a vision-first spatial-intelligence product or startup<br>中文：计算机视觉、深度学习、城市遥感、多模态基础模型、生成式模型和 AI 智能体；最适合发展视觉优先、面向空间智能的产品或创业方向<br>
   https://www.sigs.tsinghua.edu.cn/lwj/list.htm · https://liweijia.github.io/
-- **The University of Hong Kong — iEarth / AI-enabled Earth Observation** *(current Post-doctoral Fellow opening; review until 30 December 2026)* — Remote sensing, geospatial AI, spatiotemporal data analytics, climate and sustainability, and the iEarth Earth-intelligence platform<br>中文：遥感、地理空间 AI、时空数据分析、气候与可持续发展，以及 iEarth 地球智能平台；是香港最直接匹配你的岗位之一<br>
-  https://jobs.hku.hk/en/job/537278/
-- **HKUST(GZ) — Rui Cao / Responsible Urban Intelligence Lab** *(postdoc positions advertised)* — GeoAI, spatial intelligence, urban informatics, multimodal models, disaster evacuation, urban digital twins, and resilient cities<br>中文：GeoAI、空间智能、城市信息学、多模态模型、灾害疏散、城市数字孪生和韧性城市；与你的灾害响应和城市空间智能方向非常匹配<br>
+- **HKUST(GZ) — Rui Cao / Responsible Urban Intelligence Lab** *(postdoc positions advertised)* — GeoAI, spatial intelligence, urban informatics, multimodal models, urban digital twins, disaster evacuation, and resilient cities; a strong base for urban-tech, digital-twin, and spatial-decision products<br>中文：GeoAI、空间智能、城市信息学、多模态模型、城市数字孪生、灾害疏散和韧性城市；适合发展城市科技、数字孪生和空间决策产品<br>
   https://caorui.space/
-- **Shanghai Institute for AI Science (SAIS), Fudan-affiliated** *(2026 postdoc recruitment)* — Earth-science foundation models, subseasonal prediction, scientific agents, multimodal models, unified understanding-and-generation, and 3D/4D vision<br>中文：地球科学基础模型、次季节预测、科学智能体、多模态模型、统一理解与生成，以及 3D/4D 视觉；适合把 GeoAI 研究进一步提升到 AI for Science<br>
-  https://hr.fudan.edu.cn/_t261/fa/a3/c4845a785059/page.htm
-- **East China Normal University — Spatial AI Academy** *(postdoc recruitment by research groups)* — Embodied AI for autonomous mapping, multimodal remote sensing, spatiotemporal AI for emergency management, and 3D vision<br>中文：面向自主测图的具身智能、多模态遥感、面向应急管理的时空人工智能和三维视觉；是华东师范大学中与你最匹配的 AI 方向<br>
+- **East China Normal University — Spatial AI Academy** *(postdoc recruitment by research groups)* — Embodied AI for autonomous mapping, multimodal remote sensing, spatiotemporal AI for emergency management, and 3D vision; strong potential for mapping, robotics, 3D perception, and spatial-computing products<br>中文：面向自主测图的具身智能、多模态遥感、面向应急管理的时空人工智能和三维视觉；适合测图、机器人、三维感知和空间计算产品化<br>
   https://faculty.ecnu.edu.cn/_s52/lj2_27907/main.psp
-- **The Chinese University of Hong Kong — Zherong Wu and Peifeng Ma Groups** *(postdoctoral recruitment advertised)* — AI–satellite integration, urban resilience, land-subsidence and landslide monitoring, SAR/InSAR, multi-source remote sensing, and AI for Science<br>中文：AI–卫星融合、城市韧性、地面沉降与滑坡监测、SAR/InSAR、多源遥感和 AI for Science；适合将你的灾害评估研究延伸到城市地质灾害和环境智能<br>
-  https://www.grm.cuhk.edu.hk/en/profile/prof-wu-zherong/ · https://www.grm.cuhk.edu.hk/en/profile/prof-ma-peifeng/
-- **Chinese Academy of Sciences Institute of Software** *(2026 postdoctoral recruitment plan)* — Spatiotemporal big data, multimodal large models, reliable agents, world models, embodied intelligence, and industrial spatiotemporal intelligence<br>中文：时空大数据、多模态大模型、可靠智能体、世界模型、具身智能和工业时空智能；适合将 RAPID 的多智能体与可靠性研究转向更强的计算机系统和基础模型方向<br>
+- **HKUST — Hong Kong Generative AI Research and Development Center** *(current Post-doctoral Fellow opening)* — LLMs, visual foundation models, generative AI, multimodal models, and intelligent agents; useful for building general-purpose AI and generative-visual capabilities before choosing a vertical market<br>中文：大语言模型、视觉基础模型、生成式 AI、多模态模型和智能体；适合先积累通用 AI 与生成视觉能力，再选择垂直创业场景<br>
+  https://hkustcareers.hkust.edu.hk/hong-kong-generative-ai-research-and-development-center-limited/hkgai0003
+- **HKUST — Hong Kong Center for Construction Robotics** *(current Post-doctoral Fellow opening)* — Robotics SLAM, decision planning, computer vision, machine learning, and visual–LiDAR–IMU sensor fusion for physical-world systems; strong product potential in robotics, construction, inspection, and autonomous operations<br>中文：机器人 SLAM、决策规划、计算机视觉、机器学习和视觉–LiDAR–IMU 多传感器融合；在机器人、建筑、巡检和自主作业方向具有较强产品化潜力<br>
+  https://hkustcareers.hkust.edu.hk/hong-kong-center-for-construction-robotics-limited/cr0003
+- **Peking University Computer Science — Full-Time Postdoctoral Positions** *(2–3 postdocs; current recruitment)* — Large language models, vision-language models, world models, embodied AI, multi-agent systems, efficient deployment, and trustworthy AI; excellent foundational training, but less direct access to a specific vertical market<br>中文：大语言模型、视觉语言模型、世界模型、具身智能、多智能体系统、高效部署与可信 AI；底层 AI 训练很强，但与具体垂直市场的连接相对间接<br>
+  https://postdocs.pku.edu.cn/zpxx/af7c4c5ece7a4af4ada427f05f3a101a.htm
+- **Tsinghua University NLP Lab** *(long-term postdoc recruitment)* — Foundation models, multimodal models, embodied intelligence, tool learning, autonomous agents, multi-agent systems, and scientific intelligence; strong long-term AI value, although startup direction would need to be chosen independently<br>中文：基础大模型、多模态模型、具身智能、工具学习、自主智能体、多智能体系统和科学智能；长期 AI 价值很强，但创业垂直场景需要自己进一步选择<br>
+  https://nlp.csai.tsinghua.edu.cn/jobs/category/research_team
+- **Chinese Academy of Sciences Institute of Software** *(2026 postdoctoral recruitment plan)* — Spatiotemporal big data, multimodal large models, reliable agents, world models, embodied intelligence, and industrial spatiotemporal intelligence; good systems and engineering foundation for enterprise software or infrastructure startups<br>中文：时空大数据、多模态大模型、可靠智能体、世界模型、具身智能和工业时空智能；适合积累企业软件、基础设施和智能系统创业所需的工程能力<br>
   https://is.cas.cn/rcdw/bshldz/tzgg/202603/t20260323_8174643.html
-- **Tsinghua University Earth System Science — High Performance Geo-Computing Group** *(2–3 postdocs; long-term recruitment)* — Multi-source remote-sensing fusion, point clouds, SAR, self-/weakly supervised scene understanding, geospatial big data, and machine-learning models coupled with Earth-system simulations<br>中文：多源遥感融合、点云、SAR、自监督/弱监督场景理解、地理空间大数据，以及机器学习模型与地球系统模拟耦合；偏 Earth systems，但平台和清华背景很强<br>
+- **Tongji University — Institute of Artificial Intelligence and Engineering Intelligence** *(AI research group to contact)* — Large language models, multimodal large models, computer vision, explainability, and engineering intelligence, with prior Qwen and Alibaba DAMO experience in the group<br>中文：大语言模型、多模态大模型、计算机视觉、可解释性和工程智能，课题组具有通义和阿里达摩院研发背景；适合产业 AI 和工程智能方向，但创业资源需主动争取<br>
+  https://iaie.tongji.edu.cn/info/1020/1175.htm
+
+#### Applied AI and AI for Science / 第二优先级：应用 AI 与科学智能
+
+- **Shanghai Institute for AI Science (SAIS), Fudan-affiliated** *(2026 postdoc recruitment)* — Earth-science foundation models, scientific agents, multimodal models, unified understanding-and-generation, and 3D/4D vision; promising for AI4Science platforms and scientific software, with a longer commercialization cycle<br>中文：地球科学基础模型、科学智能体、多模态模型、统一理解与生成，以及 3D/4D 视觉；适合 AI4Science 平台和科学软件创业，但商业化周期相对更长<br>
+  https://hr.fudan.edu.cn/_t261/fa/a3/c4845a785059/page.htm
+- **Tongji University — Urban Public Safety Intelligent Perception Lab** *(postdoc recruitment)* — Vision-language and multimodal large models, urban public safety, anomaly perception, digital twins, and LLM-driven decision-making agents; promising for public-safety and urban-management products, but procurement cycles can be long<br>中文：视觉语言模型、多模态大模型、城市公共安全、异常感知、数字孪生和 LLM 驱动的决策智能体；适合公共安全和城市管理产品，但政企采购周期可能较长<br>
+  https://imccms.tongji.edu.cn/info/1073/1217.htm · https://imccms.tongji.edu.cn/info/1117/1215.htm
+
+#### GeoAI, Remote Sensing, and Disaster Intelligence / 第三优先级：GeoAI、遥感与地理灾害
+
+- **The University of Hong Kong — iEarth / AI-enabled Earth Observation** *(current Post-doctoral Fellow opening; review until 30 December 2026)* — Remote sensing, geospatial AI, spatiotemporal data analytics, climate and sustainability, and the iEarth Earth-intelligence platform; scientifically strong, but more dependent on institutional and public-sector customers for commercialization<br>中文：遥感、地理空间 AI、时空数据分析、气候与可持续发展，以及 iEarth 地球智能平台；科研匹配度高，但商业化更依赖机构和公共部门客户<br>
+  https://jobs.hku.hk/en/job/537278/
+- **The Chinese University of Hong Kong — Zherong Wu and Peifeng Ma Groups** *(postdoctoral recruitment advertised)* — AI–satellite integration, urban resilience, land-subsidence and landslide monitoring, SAR/InSAR, multi-source remote sensing, and AI for Science; strong technical niche but a narrower market than general AI or spatial-computing products<br>中文：AI–卫星融合、城市韧性、地面沉降与滑坡监测、SAR/InSAR、多源遥感和 AI for Science；技术壁垒较强，但市场比通用 AI 或空间计算产品更窄<br>
+  https://www.grm.cuhk.edu.hk/en/profile/prof-wu-zherong/ · https://www.grm.cuhk.edu.hk/en/profile/prof-ma-peifeng/
+- **Tsinghua University Earth System Science — High Performance Geo-Computing Group** *(2–3 postdocs; long-term recruitment)* — Multi-source remote-sensing fusion, point clouds, SAR, self-/weakly supervised scene understanding, geospatial big data, and machine-learning models coupled with Earth-system simulations; excellent academic and technical training, but the most specialized entrepreneurial route in this shortlist<br>中文：多源遥感融合、点云、SAR、自监督/弱监督场景理解、地理空间大数据，以及机器学习模型与地球系统模拟耦合；学术和技术训练很强，但在本清单中创业方向最为专业化<br>
   https://www.dess.tsinghua.edu.cn/info/1124/5553.htm
 
-#### AI-Heavy University Groups / 第二优先级：AI 比重更高
+#### Monitor for Industry AI Openings / 持续观察：企业 AI 平台
 
-- **Peking University Computer Science — Full-Time Postdoctoral Positions** *(2–3 postdocs; current recruitment)* — Large language models, vision-language models, world models, embodied AI, multi-agent systems, efficient deployment, and trustworthy AI; a strong route for moving from GeoAI applications toward core AI<br>中文：大语言模型、视觉语言模型、世界模型、具身智能、多智能体系统、高效部署与可信 AI；适合从 GeoAI 应用进一步转向核心 AI 方法<br>
-  https://postdocs.pku.edu.cn/zpxx/af7c4c5ece7a4af4ada427f05f3a101a.htm
-- **Tsinghua University NLP Lab** *(long-term postdoc recruitment)* — Foundation models, multimodal models, embodied intelligence, tool learning, autonomous agents, multi-agent systems, and scientific intelligence<br>中文：基础大模型、多模态模型、具身智能、工具学习、自主智能体、多智能体系统和科学智能；需要把你的研究叙事从“灾害应用”提升到“空间推理与可靠智能体”<br>
-  https://nlp.csai.tsinghua.edu.cn/jobs/category/research_team
-- **Tongji University — Urban Public Safety Intelligent Perception Lab** *(postdoc recruitment)* — Vision-language and multimodal large models, urban public safety, anomaly perception, digital twins, and LLM-driven decision-making agents<br>中文：视觉语言模型、多模态大模型、城市公共安全、异常感知、数字孪生和 LLM 驱动的决策智能体；适合你的灾害响应与城市风险研究<br>
-  https://imccms.tongji.edu.cn/info/1073/1217.htm · https://imccms.tongji.edu.cn/info/1117/1215.htm
-- **Tongji University — Institute of Artificial Intelligence and Engineering Intelligence** *(AI research group to contact)* — Large language models, multimodal large models, computer vision, explainability, and engineering intelligence, with prior Qwen and Alibaba DAMO experience in the group<br>中文：大语言模型、多模态大模型、计算机视觉、可解释性和工程智能，课题组具有通义和阿里达摩院研发背景；偏纯 AI，适合主动联系<br>
-  https://iaie.tongji.edu.cn/info/1020/1175.htm
-- **HKUST — Hong Kong Generative AI Research and Development Center** *(current Post-doctoral Fellow opening)* — LLMs, visual foundation models, generative AI, multimodal models, and intelligent agents<br>中文：大语言模型、视觉基础模型、生成式 AI、多模态模型和智能体；GeoAI 不是主线，但与你的生成视觉和多模态研究衔接自然<br>
-  https://hkustcareers.hkust.edu.hk/hong-kong-generative-ai-research-and-development-center-limited/hkgai0003
-- **HKUST — Hong Kong Center for Construction Robotics** *(current Post-doctoral Fellow opening)* — Robotics SLAM, decision planning, computer vision, machine learning, and visual–LiDAR–IMU sensor fusion for physical-world systems<br>中文：机器人 SLAM、决策规划、计算机视觉、机器学习和视觉–LiDAR–IMU 多传感器融合；适合向自主系统、空间感知和具身智能拓展<br>
-  https://hkustcareers.hkust.edu.hk/hong-kong-center-for-construction-robotics-limited/cr0003
-
-#### National AI Platforms and Enterprise Postdoctoral Stations / 国家级平台与企业博士后
-
-- **Shanghai Artificial Intelligence Laboratory** *(global AI recruitment and research tracks)* — Foundation models, multimodal models, physical-world models, embodied intelligence, trustworthy AI, AI for Science, and scientific intelligence; AI for Science explicitly includes Earth and agriculture applications<br>中文：基础模型、多模态模型、物理世界模型、具身智能、可信 AI、AI for Science 和科学智能；AI for Science 方向明确覆盖地球与农业等领域<br>
-  https://www.shlab.org.cn/joinus
-- **Beijing Academy of Artificial Intelligence (BAAI / 智源研究院) — Graph Science Lab** *(periodic postdoc recruitment; verify intake)* — AI spatiotemporal foundation models, multimodal remote sensing, and agents; one of the closest Beijing AI-lab matches to the current research portfolio<br>中文：AI 时空大模型、多模态遥感和智能体；是北京 AI 实验室中与现有研究组合最接近的方向之一，申请前需核实当前批次<br>
-  https://hub.baai.ac.cn/view/57824
-- **Huawei Postdoctoral Research Workstation** *(enterprise postdoctoral station)* — AI image compression, explainable AI, machine learning, dynamic high-definition maps, reconstruction and simulation, with joint university–industry supervision<br>中文：AI 图像压缩、可解释 AI、机器学习、动态高精地图、重建与仿真，采用高校与企业双导师制；是企业博士后中与你最匹配的平台之一<br>
-  https://career.huawei.com/reccampportal/portal5/postdoc.html
-- **Tencent AI Lab** *(research platform; monitor current openings)* — Computer vision, machine learning, generative learning, graph learning, reinforcement learning, and multimodal content AI<br>中文：计算机视觉、机器学习、生成学习、图学习、强化学习和多模态内容 AI；平台匹配度较高，但当前公开页面未显示明确的 GeoAI 博后岗位<br>
+- **Tencent AI Lab** *(research platform; monitor current openings)* — Computer vision, machine learning, generative learning, graph learning, reinforcement learning, and multimodal content AI; potentially valuable for product-oriented AI experience, but a current postdoctoral route is not clearly advertised<br>中文：计算机视觉、机器学习、生成学习、图学习、强化学习和多模态内容 AI；产品化经验价值较高，但当前未看到明确的博士后通道<br>
   https://ailab.tencent.com/
-- **Alibaba DAMO Academy** *(monitor only; no open roles shown on the current page)* — A major industry AI research platform with computer vision, multimodal models, intelligent decision-making, and spatial-computing applications, but the current official off-campus page reports no open positions<br>中文：头部产业 AI 研究平台，覆盖计算机视觉、多模态模型、智能决策和空间计算应用；但当前官方社会招聘页面显示暂无在招岗位，建议后续观察<br>
+- **Alibaba DAMO Academy** *(monitor only; no open roles shown on the current page)* — A major industry AI research platform with computer vision, multimodal models, intelligent decision-making, and spatial-computing applications, but the current official off-campus page reports no open positions<br>中文：头部产业 AI 研究平台，覆盖计算机视觉、多模态模型、智能决策和空间计算应用；当前官方社会招聘页面显示暂无在招岗位，建议持续观察<br>
   https://joindamo.alibaba.com/off-campus/position-list
 
 ### AI-Focused (Computer Science · Machine Learning)
