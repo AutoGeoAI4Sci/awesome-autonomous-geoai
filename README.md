@@ -49,6 +49,8 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
 - [Postdoc Opportunities](#postdoc-opportunities)
   - [Geo-Focused (GIScience · Remote Sensing · Earth Systems)](#geo-focused-giscience--remote-sensing--earth-systems)
+  - [China (Mainland)](#china-mainland)
+  - [Hong Kong](#hong-kong)
   - [AI-Focused (Computer Science · Machine Learning)](#ai-focused-computer-science--machine-learning)
   - [Open-Discipline Fellowships (Fit Either Track)](#open-discipline-fellowships-fit-either-track)
 - [Miscellaneous](#miscellaneous)
@@ -1592,9 +1594,10 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 *Curated top-tier postdoctoral opportunities for GeoAI researchers, organized into two
 tracks — **geo-focused** (GIScience, remote sensing, Earth systems) and **AI-focused**
-(computer science, machine learning) — plus discipline-open fellowships that fit either
-path. Each track lists institutions and programs first, then the job boards where new
-openings are posted.*
+(computer science, machine learning) — plus current opportunities in **China (mainland)**
+and **Hong Kong** and discipline-open fellowships that fit either path. Each track lists
+institutions and programs first, then the job boards or lab pages where new openings are
+posted. Check the official page before applying because deadlines and funding can change.
 
 ---
 
@@ -1624,6 +1627,34 @@ openings are posted.*
   https://www.aag.org/jobs-careers/
 - **Earthworks** *(job board)* — Long-running international job board for geoscience, remote sensing, and GIS positions  
   https://www.earthworks-jobs.com/
+
+### China (Mainland)
+
+- **Tsinghua University SIGS — Weijia Li Research Group** *(ongoing lab recruitment)* — Postdoctoral researchers are invited to work at the intersection of computer vision, deep learning, urban remote sensing, large multimodal models, generative models, and AI agents; an especially close match for multi-view Earth observation and autonomous GeoAI research<br>
+  https://liweijia.github.io/
+- **Tsinghua University Earth System Science — High Performance Geo-Computing (HPGC) Group** *(2–3 postdocs; long-term recruitment)* — Interdisciplinary research in high-performance computing and Earth science, including multi-source remote-sensing fusion, point-cloud processing, SAR, self-/weakly supervised scene understanding, geospatial big-data analysis, and the coupling of machine-learning models with climate, earthquake, and fluid simulations<br>
+  https://www.dess.tsinghua.edu.cn/info/1124/5553.htm
+- **Nanjing University of Information Science & Technology — Remote-Sensing Image Intelligent Interpretation and Meteorological Applications Group** *(2–3 postdocs)* — AI for remote sensing and meteorology, with preference for research on typhoons, severe convective weather, and intelligent disaster-weather forecasting; suitable backgrounds include remote sensing, computer science, and AI<br>
+  https://rsc.nuist.edu.cn/2026/0123/c2675a294743/pagem.htm
+- **Peking University Shenzhen Graduate School — Jin Rui Research Group** *(1 postdoc; open until filled)* — GeoAI, GIS, remote sensing, and spatiotemporal data analysis applied to urban climate, extreme heat, human mobility, environmental exposure, public health, and spatial equity<br>
+  https://urban.pkusz.edu.cn/info/1015/3922.htm
+- **Chinese Academy of Sciences Institute of Urban Environment — Urban Resources and Environmental Big Data & AI Innovation Team** *(postdocs; ongoing recruitment)* — Urban resource-environment assessment and spatial analysis using satellite remote sensing, GIS, statistical data, and other multi-source data; welcomes applicants from computer science, geography, mathematics, and related fields<br>
+  https://iue.cas.cn/rcjy/rczp/202609/t20260924_8286630.html
+- **The Chinese University of Hong Kong, Shenzhen — Yu Ying Project, School of Humanities and Social Science** *(1 postdoc; open until filled)* — Geographically explainable AI, computational sustainability, climate and energy policy, urban environment, and social equity, with preferred experience in spatiotemporal analysis, computer vision, NLP, machine learning, or quantitative modeling<br>
+  https://cuhk.edu.cn/zh-hans/recruitment/17603
+- **The Hong Kong University of Science and Technology (Guangzhou) — Responsible Urban Intelligence (RUI) Lab** *(postdoc and research positions)* — GeoAI, spatial intelligence, urban informatics, multimodal spatiotemporal data, responsible urban decision support, urban digital twins, and disaster-evacuation research<br>
+  https://caorui.space/
+
+### Hong Kong
+
+- **The University of Hong Kong — Institute for Climate and Carbon Neutrality, iEarth** *(Post-doctoral Fellow; Ref. 537278; deadline: 30 December 2026)* — AI-enabled Earth observation, remote sensing, geospatial AI, spatiotemporal data analytics, climate and sustainability applications, and scalable research-software or platform development<br>
+  https://jobs.hku.hk/en/job/537278/
+- **The Hong Kong Polytechnic University — Department of Land Surveying and Geospatial Science** *(Postdoctoral Fellow; Ref. 260706014; deadline: 31 December 2026)* — Remote sensing of urban climate, ecosystems, and the environment with GeoAI; the post prefers computer science, geospatial data analysis, geospatial computer vision, Python/R, and high-performance or cloud computing<br>
+  https://jobs.polyu.edu.hk/research.php?dept=14&keyword=2026
+- **The Chinese University of Hong Kong — Department of Electronic Engineering** *(Postdoctoral Fellow / Research Associate; ongoing listing)* — Deep learning and remote sensing for high-definition Hong Kong maps from LiDAR, surround-view imagery, and GNSS; suitable for computer science, electronic engineering, computer vision, and multi-source spatial sensing<br>
+  https://cuhk.taleo.net/careersection/cu_career_non_teach/jobdetail.ftl?job=240002GH
+- **City University of Hong Kong — Healthy Urban & Building (HUB) Lab** *(postdoc and research positions)* — GIS, machine learning, streetscape and satellite imagery, geospatial big-data analytics, spatiotemporal modeling, and urban environment-behavior-health research<br>
+  https://hublab.ace.cityu.edu.hk/opportunities
 
 ### AI-Focused (Computer Science · Machine Learning)
 
