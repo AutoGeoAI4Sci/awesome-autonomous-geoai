@@ -44,6 +44,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Post-Disaster Imagery: Where to Look First](#post-disaster-imagery-where-to-look-first)
 - [Internships & Companies](#internship-and-company)
   - [PhD and Academic Career Resources](#phd-and-academic-career-resources)
+  - [Big Tech AI/ML Research Internships](#big-tech-aiml-research-internships)
   - [Geospatial / Physical AI Companies](#geospatial--physical-ai-companies)
   - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
 - [Postdoc Opportunities](#postdoc-opportunities)
@@ -717,6 +718,25 @@ sub-meter scenes. Adapted from a Chinese-language overview of public disaster-im
 - **CSPhD.org (博士栈)** — A free, Chinese-speaking community for PhD students and early-career researchers in computer science, AI, electrical engineering, and statistics. It shares PhD and research-assistant opportunities, internships and full-time roles, postdoctoral and faculty resources, peer-review invitations, and conference networking opportunities.<br>
   Rooted in North America and open to a global audience, it is a useful career and community resource for Autonomous GeoAI researchers navigating doctoral study and academic or industry transitions.<br>
   https://csphd.org/index.html
+
+### Big Tech AI/ML Research Internships
+
+Entry points for research internships and student-researcher roles at large AI labs. Links were resolved from LinkedIn short URLs and checked on 2026-10-16. Some programs accept undergraduates; many research roles are limited to MS/PhD students, so check each posting's eligibility.
+
+| Organization | Program / Page | Link |
+|---|---|---|
+| Google DeepMind | Student Researcher Program (BS/MS/PhD research roles across AI, ML, CS) | https://deepmind.google/student-researcher-program/ |
+| Google Research | Research areas, publications, and research careers | https://research.google/ · https://research.google/careers/ |
+| Microsoft Research | Research careers and internships | https://www.microsoft.com/en-us/research/careers/ |
+| Microsoft | Student and early-career roles | https://careers.microsoft.com/v2/global/en/students |
+| NVIDIA | Job search (deep learning, computer vision, GPU computing, AI systems) | https://jobs.nvidia.com/ |
+| NVIDIA | University recruiting | https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/ |
+| Amazon Science | Research in ML, NLP, robotics, and more | https://www.amazon.science/ |
+| Amazon | Student internships (software, science, technical roles) | https://www.amazon.jobs/content/en/career-programs/university/internships-for-students/ |
+| IBM Research | AI, trustworthy computing, emerging technologies | https://research.ibm.com/ · https://www.ibm.com/careers/internships |
+| Adobe Research | ML, computer vision, generative AI, HCI | https://research.adobe.com/ |
+
+How to apply as a student: reproduce a published method, build one project that answers a specific research question, and keep your CV, GitHub, and project documentation ready before contacting labs.
 
 ### **Esri (Environmental Systems Research Institute)**  
 *Focus:* GeoAI · Spatial Data Science · GIScience · AI-Integrated GIS  
