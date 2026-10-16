@@ -49,7 +49,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
 - [Postdoc Opportunities](#postdoc-opportunities)
   - [Geo-Focused (GIScience · Remote Sensing · Earth Systems)](#geo-focused-giscience--remote-sensing--earth-systems)
-  - [China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence](#china--hong-kong-top-tier-postdoctoral-opportunities-in-ai-geoai-and-spatial-intelligence)
+  - [Mainland China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence](#mainland-china--hong-kong-top-tier-postdoctoral-opportunities-in-ai-geoai-and-spatial-intelligence)
   - [AI-Focused (Computer Science · Machine Learning)](#ai-focused-computer-science--machine-learning)
   - [Open-Discipline Fellowships (Fit Either Track)](#open-discipline-fellowships-fit-either-track)
 - [Miscellaneous](#miscellaneous)
@@ -1627,7 +1627,7 @@ posted. Check the official page before applying because deadlines and funding ca
 - **Earthworks** *(job board)* — Long-running international job board for geoscience, remote sensing, and GIS positions  
   https://www.earthworks-jobs.com/
 
-### China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence
+### Mainland China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence
 
 *中国大陆与香港：顶尖 AI、GeoAI 与空间智能博士后机会*
 
