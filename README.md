@@ -49,7 +49,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Reality Capture and Spatial Computing Company Map](#reality-capture-and-spatial-computing-company-map)
 - [Postdoc Opportunities](#postdoc-opportunities)
   - [Geo-Focused (GIScience · Remote Sensing · Earth Systems)](#geo-focused-giscience--remote-sensing--earth-systems)
-  - [China](#china)
+  - [China: Top-Tier Postdoctoral Opportunities in AI and GeoAI](#china-top-tier-postdoctoral-opportunities-in-ai-and-geoai)
   - [AI-Focused (Computer Science · Machine Learning)](#ai-focused-computer-science--machine-learning)
   - [Open-Discipline Fellowships (Fit Either Track)](#open-discipline-fellowships-fit-either-track)
 - [Miscellaneous](#miscellaneous)
@@ -1627,41 +1627,47 @@ posted. Check the official page before applying because deadlines and funding ca
 - **Earthworks** *(job board)* — Long-running international job board for geoscience, remote sensing, and GIS positions  
   https://www.earthworks-jobs.com/
 
-### China
+### China: Top-Tier Postdoctoral Opportunities in AI and GeoAI
+
+*中国：顶尖 AI 与 GeoAI 博士后机会*
 
 *This shortlist is intentionally limited to top Chinese universities, national research
 institutes, and major AI laboratories. It excludes general regional openings and is meant
 for applicants working in computer vision, multimodal models, spatial intelligence,
 GeoAI, AI for Science, or autonomous systems.*
 
-#### Top Universities and University-Affiliated Labs
+*中国版：本清单聚焦中国顶尖高校、国家级科研机构和头部 AI 实验室，排除一般性
+地方岗位，重点面向计算机视觉、多模态模型、空间智能、GeoAI、AI for Science
+和自主系统方向的申请者。*
 
-- **Tsinghua University SIGS — Weijia Li Research Group** *(ongoing lab recruitment)* — Computer vision, deep learning, urban remote sensing, large multimodal models, generative models, and AI agents; an especially close match for multi-view Earth observation and autonomous GeoAI research<br>
+#### Top Universities and University-Affiliated Labs / 顶尖高校与大学实验室
+
+- **Tsinghua University SIGS — Weijia Li Research Group** *(ongoing lab recruitment)* — Computer vision, deep learning, urban remote sensing, large multimodal models, generative models, and AI agents; an especially close match for multi-view Earth observation and autonomous GeoAI research<br>中文：计算机视觉、深度学习、城市遥感、大型多模态模型、生成式模型和 AI 智能体，尤其适合多视角地球观测与自主 GeoAI 研究<br>
   https://liweijia.github.io/
-- **Tsinghua University Earth System Science — High Performance Geo-Computing (HPGC) Group** *(2–3 postdocs; long-term recruitment)* — Multi-source remote-sensing fusion, point clouds, SAR, self-/weakly supervised scene understanding, geospatial big-data analysis, and machine-learning models coupled with climate, earthquake, and fluid simulations<br>
+- **Tsinghua University Earth System Science — High Performance Geo-Computing (HPGC) Group** *(2–3 postdocs; long-term recruitment)* — Multi-source remote-sensing fusion, point clouds, SAR, self-/weakly supervised scene understanding, geospatial big-data analysis, and machine-learning models coupled with climate, earthquake, and fluid simulations<br>中文：多源遥感融合、点云、SAR、自监督/弱监督场景理解、地理空间大数据分析，以及机器学习模型与气候、地震和流体模拟的耦合<br>
   https://www.dess.tsinghua.edu.cn/info/1124/5553.htm
-- **Peking University Computer Science — Full-Time Postdoctoral Positions** *(2–3 postdocs; long-term recruitment)* — Large language models, vision-language models, world models, embodied AI, multi-agent systems, efficient deployment, and trustworthy AI; strong fit for the computer-science and agentic side of Autonomous GeoAI<br>
+- **Peking University Computer Science — Full-Time Postdoctoral Positions** *(2–3 postdocs; long-term recruitment)* — Large language models, vision-language models, world models, embodied AI, multi-agent systems, efficient deployment, and trustworthy AI; strong fit for the computer-science and agentic side of Autonomous GeoAI<br>中文：大语言模型、视觉语言模型、世界模型、具身智能、多智能体系统、高效部署与可信 AI，适合 Autonomous GeoAI 的计算机科学和智能体方向<br>
   https://postdocs.pku.edu.cn/zpxx/af7c4c5ece7a4af4ada427f05f3a101a.htm
-- **Fudan University — Cross-Media Intelligent Computing Lab** *(1 postdoc; long-term recruitment)* — Embodied intelligence, medical AI, and cross-media intelligent computing for applicants from computer science, control, and related fields<br>
+- **Fudan University — Cross-Media Intelligent Computing Lab** *(1 postdoc; long-term recruitment)* — Embodied intelligence, medical AI, and cross-media intelligent computing for applicants from computer science, control, and related fields<br>中文：具身智能、医学 AI 和跨媒体智能计算，面向计算机、控制及相关专业背景的申请者<br>
   https://hr.fudan.edu.cn/_t261/02/93/c4841a787091/page.htm
-- **University of Science and Technology of China — Intelligent Simulation and Data Synthesis Engineering Center** *(postdoc openings)* — Embodied-intelligence algorithms, robotics, simulation and digital twins, computer vision, machine learning, and machine vision; a strong systems-side fit for spatial intelligence and autonomous agents<br>
+- **University of Science and Technology of China — Intelligent Simulation and Data Synthesis Engineering Center** *(postdoc openings)* — Embodied-intelligence algorithms, robotics, simulation and digital twins, computer vision, machine learning, and machine vision; a strong systems-side fit for spatial intelligence and autonomous agents<br>中文：具身智能算法、机器人、仿真与数字孪生、计算机视觉、机器学习和机器视觉，适合空间智能与自主智能体的系统研究方向<br>
   https://iai.ustc.edu.cn/kjcx/tzgg/20260311/7798.html
-- **Zhejiang Lab** *(postdoctoral research station; ongoing recruitment)* — AI theory, intelligent perception, intelligent computing, intelligent systems, multimodal analysis, spatial fusion, simulation, prediction, and decision-making<br>
+- **Zhejiang Lab** *(postdoctoral research station; ongoing recruitment)* — AI theory, intelligent perception, intelligent computing, intelligent systems, multimodal analysis, spatial fusion, simulation, prediction, and decision-making<br>中文：人工智能理论、智能感知、智能计算、智能系统、多模态分析、空间融合、仿真、预测与决策<br>
   https://postdoctor.tsinghua.edu.cn/info/zsxx_/1914
 
-#### National AI Labs and Research Institutes
+#### National AI Labs and Research Institutes / 国家级 AI 实验室与科研机构
 
-- **Shanghai Artificial Intelligence Laboratory** *(global recruitment; postdoctoral and research tracks)* — Foundation models, multimodal models, embodied intelligence, trustworthy AI, AI for Science, physical-world models, and open research platforms; the lab also runs joint doctoral training with Tsinghua, Peking, Fudan, Shanghai Jiao Tong, USTC, Zhejiang University, and other top universities<br>
+- **Shanghai Artificial Intelligence Laboratory** *(global recruitment; postdoctoral and research tracks)* — Foundation models, multimodal models, embodied intelligence, trustworthy AI, AI for Science, physical-world models, and open research platforms; the lab also runs joint doctoral training with Tsinghua, Peking, Fudan, Shanghai Jiao Tong, USTC, Zhejiang University, and other top universities<br>中文：基础模型、多模态模型、具身智能、可信 AI、AI for Science、物理世界模型与开放科研平台，并与清华、北大、复旦、上海交大、中科大、浙大等顶尖高校开展联合培养<br>
   https://www.shlab.org.cn/joinus
-- **Beijing Academy of Artificial Intelligence (BAAI / 智源研究院)** *(postdoctoral research station; periodic recruitment)* — Large models, multimodal intelligence, AI for Science, brain-inspired computing, computer graphics, and high-performance computing; verify the current intake before applying<br>
+- **Beijing Academy of Artificial Intelligence (BAAI / 智源研究院)** *(postdoctoral research station; periodic recruitment)* — Large models, multimodal intelligence, AI for Science, brain-inspired computing, computer graphics, and high-performance computing; verify the current intake before applying<br>中文：大模型、多模态智能、AI for Science、类脑计算、计算机图形学与高性能计算；申请前需核实当前招收批次<br>
   https://www.baai.ac.cn/ · https://hub.baai.ac.cn/view/9458
-- **Shanghai Institute for AI Science (SAIS / 上海科学智能研究院)** *(2026 postdoc recruitment)* — Earth-science foundation models, subseasonal prediction, scientific agents, multimodal models, unified understanding-and-generation, 3D/4D vision, and model evaluation; one of the closest China-based matches for GeoAI and AI for Earth systems<br>
+- **Shanghai Institute for AI Science (SAIS / 上海科学智能研究院)** *(2026 postdoc recruitment)* — Earth-science foundation models, subseasonal prediction, scientific agents, multimodal models, unified understanding-and-generation, 3D/4D vision, and model evaluation; one of the closest China-based matches for GeoAI and AI for Earth systems<br>中文：地球科学基础模型、次季节预测、科学智能体、多模态模型、统一理解与生成、3D/4D 视觉和模型评测，是中国区最贴近 GeoAI 与 AI for Earth Systems 的机会之一<br>
   https://hr.fudan.edu.cn/_t261/fa/a3/c4845a785059/page.htm
-- **Peng Cheng Laboratory** *(postdoc recruitment portal)* — National-level research platform with dedicated intelligent-computing, network-intelligence, media-and-interaction, and AI research divisions; the recruitment portal maintains a separate postdoctoral category and current research openings<br>
+- **Peng Cheng Laboratory** *(postdoc recruitment portal)* — National-level research platform with dedicated intelligent-computing, network-intelligence, media-and-interaction, and AI research divisions; the recruitment portal maintains a separate postdoctoral category and current research openings<br>中文：国家级科研平台，设有智能计算、网络智能、媒体与交互、人工智能等研究部门，招聘门户单列博士后类别并持续发布科研岗位<br>
   https://hr.pcl.ac.cn/SU62b979a5bef57c0f6fb046d7/pb/index.html
-- **Chinese Academy of Sciences Institute of Automation — Multimodal AI and Intelligent Systems** *(research institute; monitor postdoc openings)* — Multimodal AI, pattern recognition, machine learning, computer vision, intelligent agents, robotics, and AI for Science across national key laboratories<br>
+- **Chinese Academy of Sciences Institute of Automation — Multimodal AI and Intelligent Systems** *(research institute; monitor postdoc openings)* — Multimodal AI, pattern recognition, machine learning, computer vision, intelligent agents, robotics, and AI for Science across national key laboratories<br>中文：中国科学院自动化研究所，覆盖多模态 AI、模式识别、机器学习、计算机视觉、智能体、机器人和 AI for Science 等国家级重点实验室方向；建议持续关注博士后岗位<br>
   https://www.ia.cas.cn/
-- **Chinese Academy of Sciences Shanghai Institute of Microsystems and Information Technology — Bionic Vision Systems Lab** *(postdoctoral recruitment)* — 3D reconstruction, localization and navigation, scene understanding, self-supervised learning, multimodal large models, and multimodal agents for autonomous systems<br>
+- **Chinese Academy of Sciences Shanghai Institute of Microsystems and Information Technology — Bionic Vision Systems Lab** *(postdoctoral recruitment)* — 3D reconstruction, localization and navigation, scene understanding, self-supervised learning, multimodal large models, and multimodal agents for autonomous systems<br>中文：中国科学院上海微系统与信息技术研究所仿生视觉系统实验室，方向包括三维重建、定位导航、场景理解、自监督学习、多模态大模型和面向自主系统的多模态智能体<br>
   https://www.sim.cas.cn/rczpw/rczp2017/shzp2017/202607/t20260702_8237224.html
 
 ### AI-Focused (Computer Science · Machine Learning)
