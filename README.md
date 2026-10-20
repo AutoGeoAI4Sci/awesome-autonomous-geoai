@@ -1635,14 +1635,34 @@ posted. Check the official page before applying because deadlines and funding ca
 
 *This shortlist is intentionally limited to top Chinese and Hong Kong universities,
 national research institutes, major AI laboratories, and selected enterprise postdoctoral
-stations. The order below is optimized for future entrepreneurship rather than academic
+stations, plus the elite national and university fellowship schemes that fund them and
+the top-PhD hiring programs of major tech companies. The order below is optimized for future entrepreneurship rather than academic
 prestige alone: it prioritizes foundational AI, multimodal vision, spatial intelligence,
 deployable systems, access to real-world data, industry partnerships, and incubation
 potential.*
 
 *中国版：本清单聚焦中国大陆与香港的顶尖高校、国家级科研机构、头部 AI 实验室
-和企业博士后工作站。以下排序不是单纯的学校排名，而是优先考虑前沿 AI 能力、
+和企业博士后工作站，以及国家级与高校顶尖博后资助计划和头部科技公司的顶尖博士校招计划。以下排序不是单纯的学校排名，而是优先考虑前沿 AI 能力、
 多模态视觉、空间智能、可部署系统、真实产业数据、产业合作和创业孵化潜力。*
+
+#### Elite Postdoctoral Fellowship Schemes / 顶尖博士后资助计划
+
+*These schemes are labels and funding packages rather than labs: secure a host group first (from the lists below), then apply through the scheme. All 2026 rounds have closed; the 2027 rounds open around January to March 2027 (Hong Kong JRFS: nominations around October), which fits a 2027 PhD completion.*
+
+*这些计划本身不是课题组，而是"头衔 + 经费"：先确定下面清单中的合作导师，再通过计划申请。2026 年各轮次均已截止，2027 年轮次约在 2027 年 1–3 月开放（香港 JRFS 约在 10 月提名），与 2027 年博士毕业时间吻合。*
+
+- **RGC Junior Research Fellow Scheme (JRFS, formerly the RGC Postdoctoral Fellowship Scheme)** *(Hong Kong government flagship; university nomination only)* — About 60 awards a year at roughly HK$430k per year for 24 months plus an optional 12, with a path to an Assistant Professor or Research Assistant Professor post and HK$140k per year of research funding; eligible if the PhD is conferred on or after 1 January 2023 or expected by 31 August 2027. Each UGC-funded university nominates up to 15 candidates (2027/28 nominations due to the UGC 30 October 2026), so line up a Hong Kong host well before the following October<br>中文：研资局初级研究员计划（原"研资局博士后奖学金计划"），香港政府旗舰博后项目，仅限大学提名：每年约 60 个名额，年薪约 43 万港币，为期 24 个月，可再续 12 个月，并有机会转为助理教授或研究助理教授，另有每年 14 万港币科研经费；2023 年 1 月 1 日后获得或预计 2027 年 8 月 31 日前获得博士学位即可申请。每所资助大学最多提名 15 人（2027/28 年度提名须于 2026 年 10 月 30 日前提交研资局），应提前一年联系香港合作导师<br>
+  https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/
+- **Tsinghua University Shuimu Scholar Program** *(two rounds a year, around March and September)* — Tsinghua's flagship postdoc brand: ¥300k per year before tax for two to three years plus campus housing or a ¥42k annual housing allowance; can be paired with any Tsinghua host, including the Shenzhen International Graduate School (SIGS)<br>中文：清华大学"水木学者"计划，清华最高层次博后项目：税前年薪 30 万元，为期 2–3 年，另提供校内住房或每年 4.2 万元住房补贴；可与任一清华合作导师（含深圳国际研究生院）搭配申请<br>
+  https://postdoctor.tsinghua.edu.cn/info/zxtz/2174 · https://postdoctor.tsinghua.edu.cn/info/zxtz/2097
+- **Peking University Boya Postdoctoral Fellowship** *(next call expected around January 2027)* — Up to about 380 awards a year: ¥200k per year before tax plus a ¥60k housing allowance and a ¥30k–90k supervisor top-up, for 24 months; age 35 or under, PhD within three years, and in-progress PhDs may apply<br>中文：北京大学博雅博士后：每年最多约 380 个名额，税前年薪 20 万元，另有 6 万元住房补贴及合作导师 3–9 万元配套，为期 24 个月；35 岁以下、博士毕业 3 年内，在读博士亦可申请<br>
+  https://postdocs.pku.edu.cn/tzgg/f6f8ed4941c94e92ae8528edb7facc66.htm
+- **China Postdoctoral Science Foundation — Postdoctoral Innovative Talent Support Program (A tier of the National Funded Postdoctoral Researcher Program)** *(national; next call expected around February 2027)* — The most prestigious national postdoc label and it stacks on top of a host-group offer: Tier A ¥280k per year plus a one-off ¥80k research grant for two years (about 500 awards); Tier B ¥180k per year (about 1,000 awards); Tier C ¥120k per year; for candidates entering a postdoctoral station that year. The former international-exchange "introduction" track no longer appears in the 2026 notices, so overseas PhDs should apply through this program<br>中文：中国博士后科学基金会"博士后创新人才支持计划"（博新计划，即国家资助博士后研究人员计划 A 档）：国家级最高层次博后头衔，可与合作导师岗位叠加；A 档每年 28 万元，另有一次性 8 万元科研经费，为期 2 年（约 500 人）；B 档每年 18 万元（约 1000 人）；C 档每年 12 万元；须当年进站。2026 年通知中已不见原"国际交流计划引进项目"，海外博士宜通过本计划申请<br>
+  https://www.chinapostdoctor.org.cn/
+- **Westlake Fellows Program, Westlake University (Hangzhou)** *(spring call; next expected early 2027)* — Independent-PI fellowship for researchers within two years of the PhD, including those about to graduate: run your own small lab for three years (renewable for three more) without teaching duties, with AI an eligible area; Hangzhou adds postdoc and retention subsidies<br>中文：西湖大学 Westlake Fellows（西湖学者）计划：面向博士毕业 2 年内（含应届）的独立 PI 型项目，可独立组建小型实验室，为期 3 年，可续 3 年，无教学任务，AI 方向可申请；杭州另有博后生活补贴与留杭奖励<br>
+  https://westlakefellows.westlake.edu.cn/
+- **Zhejiang University Postdoctoral Program (including the Qiushi postdoc track)** *(Hangzhou; rolling, group-based)* — Group advertisements report ¥260k–450k per year for regular postdocs and higher packages for the Qiushi track, plus Hangzhou's retention award; confirm current figures with the host group<br>中文：浙江大学博士后（含"求是博士后"）：课题组招聘广告显示普通博后年薪约 26–45 万元，求是博后更高，另有杭州留杭奖励；具体待遇以课题组当期公告为准<br>
+  https://hr.zju.edu.cn/postdoctor/
 
 #### Entrepreneurial Priority: AI Platforms, Vision, and Spatial Intelligence / 第一优先级：创业潜力、AI 平台、视觉与空间智能
 
@@ -1658,6 +1678,8 @@ potential.*
   https://hub.baai.ac.cn/view/57824
 - **Tsinghua University SIGS — Weijia Li Research Group** *(ongoing postdoc recruitment)* — Computer vision, deep learning, urban remote sensing, multimodal foundation models, generative models, and AI agents; the best direct match for developing a vision-first spatial-intelligence product or startup<br>中文：计算机视觉、深度学习、城市遥感、多模态基础模型、生成式模型和 AI 智能体；最适合发展视觉优先、面向空间智能的产品或创业方向<br>
   https://www.sigs.tsinghua.edu.cn/lwj/list.htm · https://liweijia.github.io/
+- **Peking University College of Urban and Environmental Sciences — Zhecheng Wang Group** *(postdoc call posted January 2026, open until filled; confirm by email)* — Multimodal foundation models for geospatial big data (remote sensing and street view), geospatial reasoning, and trustworthy data spaces, an almost exact match for street-view plus remote-sensing GeoAI; from ¥120k per year, with strong candidates encouraged to apply for the Boya fellowship<br>中文：北京大学城市与环境学院汪哲成课题组：面向地理空间大数据（遥感与街景）的多模态基础模型、地理空间推理和可信数据空间，与街景 + 遥感 GeoAI 方向几乎完全吻合；年薪 12 万元起，优秀者推荐申请博雅博士后<br>
+  https://ues.pku.edu.cn/jszy/wzc/wzcgrjl/4dfe7d9067274cd0b69560e7fe145900.htm
 - **The Chinese University of Hong Kong — Multimedia Laboratory (MMLab)** *(postdoctoral openings advertised; verify current intake)* — One of the leading computer-vision and deep-learning labs in Hong Kong, with postdoctoral openings and research spanning computer vision, machine learning, multimodal perception, and medical imaging; a strong route for building core vision capability before moving into spatial or physical-world AI products<br>中文：香港中文大学多媒体实验室，长期深耕计算机视觉和深度学习，页面明确提到博士后招收，并覆盖计算机视觉、机器学习、多模态感知和医学影像；适合先强化核心视觉能力，再向空间智能或物理世界 AI 产品拓展<br>
   https://mmlab.ie.cuhk.edu.hk/join_us.html
 - **HKUST(GZ) — Rui Cao / Responsible Urban Intelligence Lab** *(postdoc positions advertised)* — GeoAI, spatial intelligence, urban informatics, multimodal models, urban digital twins, disaster evacuation, and resilient cities; a strong base for urban-tech, digital-twin, and spatial-decision products<br>中文：GeoAI、空间智能、城市信息学、多模态模型、城市数字孪生、灾害疏散和韧性城市；适合发展城市科技、数字孪生和空间决策产品<br>
@@ -1676,6 +1698,8 @@ potential.*
   https://is.cas.cn/rcdw/bshldz/tzgg/202603/t20260323_8174643.html
 - **Tongji University — Institute of Artificial Intelligence and Engineering Intelligence** *(AI research group to contact)* — Large language models, multimodal large models, computer vision, explainability, and engineering intelligence, with prior Qwen and Alibaba DAMO experience in the group<br>中文：大语言模型、多模态大模型、计算机视觉、可解释性和工程智能，课题组具有通义和阿里达摩院研发背景；适合产业 AI 和工程智能方向，但创业资源需主动争取<br>
   https://iaie.tongji.edu.cn/info/1020/1175.htm
+- **Tsinghua University Institute for AI Industry Research (AIR)** *(postdoc advertisements by research direction)* — Led by Ya-Qin Zhang with an explicit industry-transfer mission; postdoc openings span robotics, smart transportation, IoT, and healthcare AI, a good base for learning how AI research becomes companies<br>中文：清华大学智能产业研究院（AIR），由张亚勤院长领衔，以产业转化为核心使命；博后方向覆盖机器人、智慧交通、物联网和医疗 AI，适合学习 AI 研究如何转化为企业<br>
+  https://air.tsinghua.edu.cn/lby-wtw.jsp?urltype=tree.TreeTempUrl&wbtreeid=1028&order=1
 
 #### Applied AI and AI for Science / 第二优先级：应用 AI 与科学智能
 
@@ -1692,6 +1716,41 @@ potential.*
   https://www.grm.cuhk.edu.hk/en/profile/prof-wu-zherong/ · https://www.grm.cuhk.edu.hk/en/profile/prof-ma-peifeng/
 - **Tsinghua University Earth System Science — High Performance Geo-Computing Group** *(2–3 postdocs; long-term recruitment)* — Multi-source remote-sensing fusion, point clouds, SAR, self-/weakly supervised scene understanding, geospatial big data, and machine-learning models coupled with Earth-system simulations; excellent academic and technical training, but the most specialized entrepreneurial route in this shortlist<br>中文：多源遥感融合、点云、SAR、自监督/弱监督场景理解、地理空间大数据，以及机器学习模型与地球系统模拟耦合；学术和技术训练很强，但在本清单中创业方向最为专业化<br>
   https://www.dess.tsinghua.edu.cn/info/1124/5553.htm
+- **Tsinghua SIGS — Lizhe Wang Group (Shenzhen)** *(postdoc call posted August 2026; confirm by email)* — Satellite remote sensing, low-altitude engineering, and spatial AI under a leading remote-sensing big-data and high-performance-computing scholar; Shenzhen adds substantial postdoc subsidies<br>中文：清华大学深圳国际研究生院王力哲课题组：卫星遥感、低空工程与空间人工智能，导师为遥感大数据与高性能计算领域权威；深圳另有可观的博后补贴<br>
+  https://www.sigs.tsinghua.edu.cn/wlz_en/list.htm
+- **Shenzhen University — Geospatial Informatics Research Team (Qingquan Li and Renzhong Guo)** *(long-running open call; confirm it is live)* — Urban spatial information, smart cities, remote sensing, and urban big data under two CAS/CAE academicians; from ¥340k per year (university plus Shenzhen subsidy), and positions co-hosted with Huawei or OCT Group pay from ¥420k, an unusual academic–industry bridge<br>中文：深圳大学地理空间信息研究团队（李清泉院士、郭仁忠院士）：城市空间信息、智慧城市、遥感与城市大数据；年薪 34 万元起（学校 + 深圳市补贴），与华为或华侨城联合培养的岗位 42 万元起，是少见的学界–产业衔接通道<br>
+  https://saup.szu.edu.cn/info/1017/2177.htm
+- **Shenzhen Institutes of Advanced Technology, CAS — Space-Time Analysis and Research Group (Ling Yin)** *(2026 call for two to three postdocs)* — Spatiotemporal data intelligence, AI for public health, and complex networks, explicitly open to GIS PhDs<br>中文：中国科学院深圳先进技术研究院时空数据智能课题组（尹凌）：时空数据智能、AI + 公共健康和复杂网络，2026 年招收 2–3 名博后，明确欢迎 GIS 背景博士<br>
+  https://hpcc.siat.ac.cn/group/spacetime_news2024.html
+- **CAS Institute of Geographic Sciences and Natural Resources Research (IGSNRR)** *(rolling special-research-assistant postdoc calls)* — 2026 calls include flood and drought disaster simulation and risk, AI and geographic knowledge discovery in the State Key Laboratory of Resources and Environmental Information System (LREIS), and urban big data with multimodal fusion and spatial intelligence; China's national geography institute<br>中文：中国科学院地理科学与资源研究所：滚动发布"特别研究助理"博后岗位，2026 年涉及洪旱灾害模拟与风险、资源与环境信息系统国家重点实验室的 AI 与地理知识发现、城市大数据多模态融合与空间智能；国家地理学研究重镇<br>
+  https://igsnrr.cas.cn/news/zp/ · https://igsnrr.cas.cn/news/zp/202606/t20260609_8219502.html
+- **The Hong Kong Polytechnic University — Research Centre for Artificial Intelligence in Geomatics (RCAIG)** *(PI-hosted postdocs; a natural JRFS host)* — Directed by Qihao Weng within the Department of Land Surveying and Geo-Informatics; GeoAI is the centre's core mission, and regular PolyU postdocs start around HK$29k per month for 24 months<br>中文：香港理工大学测绘人工智能研究中心（翁齐浩教授领衔，隶属土地测量及地理资讯学系）：以 GeoAI 为核心方向；理大普通博后月薪约 2.9 万港币起，为期 24 个月，也是申请 JRFS 的理想合作平台<br>
+  https://www.polyu.edu.hk/rcaig/ · https://www.polyu.edu.hk/lsgi/
+- **The University of Hong Kong — Musketeers Foundation Institute of Data Science (HKU IDS) Postdoctoral Fellowship** *(two rounds a year; confirm current timing)* — Up to HK$514,800 per year plus HK$15k research allowance for two years, for PhDs within three years who secure an IDS supervisor; data science and AI applied to social science and engineering, so GeoAI fits<br>中文：香港大学数据科学研究院博士后奖学金：年薪最高 51.48 万港币，另有 1.5 万港币科研经费，为期 2 年；面向博士毕业 3 年内并找到研究院导师的申请人，涵盖数据科学与 AI 在社会科学和工程中的应用，GeoAI 方向适用<br>
+  https://datascience.hku.hk/research/postdoctoral-fellowship/
+- **The University of Hong Kong Department of Geography — Bo Huang** *(PI-hosted; strong JRFS host)* — Chair professor in GIScience and remote sensing covering spatiotemporal modelling and image fusion<br>中文：香港大学地理系黄波讲座教授：GIScience 与遥感，研究时空建模与影像融合，适合作为 JRFS 合作导师<br>
+  https://www.geog.hku.hk/b-huang
+- **Centre for Perceptual and Interactive Intelligence (CPII), InnoHK** *(contact for openings)* — CUHK-led InnoHK centre at Hong Kong Science Park with visual-intelligence research and a "Vision-based Urban Services" programme<br>中文：感知与互动智能研究中心（香港中文大学牵头的 InnoHK 研发中心，位于香港科学园）：视觉智能研究，并设有"基于视觉的城市服务"项目<br>
+  https://cpii.hk/join-us-2/
+- **HKUST(GZ) — Urban Governance and Design Thrust (UGOD)** *(postdocs advertised via external job boards)* — GIS, remote sensing, geospatial big data, and deep learning for urban AI in Guangzhou Nansha<br>中文：香港科技大学（广州）城市治理与设计学域：面向城市 AI 的 GIS、遥感、地理空间大数据和深度学习，位于广州南沙<br>
+  https://ugod.hkust-gz.edu.cn
+
+#### Industry Top-PhD Hiring Programs (Not Postdocs) / 企业顶尖博士校招计划（非博士后）
+
+*Major Chinese tech companies run formal postdoctoral workstations, but none currently advertises a postdoc intake. For a 2027 PhD the real industry entry is each company's named top-talent campus program, which recruits through the class-of-2027 hiring cycle and reportedly pays around ¥1M or more for top PhDs.*
+
+*国内头部科技公司虽设有博士后工作站，但目前均未发布博后招收信息。对 2027 届博士而言，真正的产业入口是各公司的顶尖人才校招计划，按 2027 届校招流程招聘，顶尖博士年薪据报道约百万元以上。*
+
+- **ByteDance Seed — 2027 Foundation Model Campus Recruitment (replaces Top Seed)** *(open now; graduates September 2026 to August 2027)* — About 100 hires across six areas including vision and multimodal intelligence and embodied AI, in Beijing, Shanghai, Shenzhen, Hangzhou, and overseas sites<br>中文：字节跳动 Seed 2027 届大模型人才校招（取代 Top Seed）：约 100 个名额，覆盖视觉与多模态智能、具身智能等六大方向，工作地包括北京、上海、深圳、杭州及海外；面向 2026 年 9 月至 2027 年 8 月毕业生<br>
+  https://seed.bytedance.com/zh/seedearlycareer
+- **Alibaba / AMap — AliStar and top-talent campus tracks** *(open now; graduates November 2026 to October 2027)* — The closest industry match for GeoAI: AMap now positions itself around spatial intelligence and launched a spatial-intelligence AI platform in 2026 (Beijing and Hangzhou)<br>中文：阿里巴巴 / 高德地图"阿里星"等顶尖人才校招：与 GeoAI 最贴近的产业方向，高德正以"空间智能"为核心定位，并于 2026 年发布空间智能 AI 平台（北京、杭州）<br>
+  https://talent.alibaba.com/campus/home
+- **Tencent Qingyun Program 2027** *(graduates January to December 2027)* — Six tracks including multimodal and vision, and agents and reinforcement learning, in Shenzhen, Beijing, Shanghai, and Hangzhou<br>中文：腾讯青云计划 2027：六大方向，含多模态与视觉、智能体与强化学习，工作地为深圳、北京、上海、杭州<br>
+  https://join.qq.com/qingyun.html
+- **Baidu AIDU Program 2027** *(main 2026 window closed in June; ask about late entry)* — Multimodal models, agents, and autonomous driving, with Apollo hiring world-model and vision-language-model architects (Beijing)<br>中文：百度 AIDU 计划 2027：多模态、智能体与自动驾驶，Apollo 在招世界模型与视觉语言模型架构师（北京）；2026 年主申请窗口已于 6 月关闭，可咨询补录<br>
+  https://talent.baidu.com/jobs/
+- **Ant Group Plan A** *(elite AI researcher track for master's and PhD graduates)* — Hangzhou and Shanghai<br>中文：蚂蚁集团 Plan A：面向硕博毕业生的顶尖 AI 研究人才通道，工作地为杭州、上海<br>
+  https://talent.antgroup.com
 
 #### Monitor for Industry AI Openings / 持续观察：企业 AI 平台
 
