@@ -2,10 +2,61 @@
 
 <a id="top"></a>
 
+<a id="import"></a>
+
+> ## 📥 Import this document into your Principles system · 导入到你的「原则」系统
+>
+> Everything below (dissertation positions, advisor's message, reading notes) can be loaded into
+> **[principles.numb1999.com](https://principles.numb1999.com/)**, a personal principles manager with an API.
+> Once imported, its advisor and any AI agent you connect (ChatGPT, Claude, Claude Code, Codex, ...)
+> can retrieve the most relevant principles for a situation you describe, e.g. *"a reviewer says my
+> contribution is only an application"* or *"I want to add a fourth RQ to the dissertation"*.
+>
+> **Setup (once):** register at the site, open the **API** tab, and copy your Bearer token.
+>
+> **Path A · one-shot import with an agent (recommended).** Paste the prompt below into Claude Code,
+> Codex, or any agent that can run shell commands, after replacing `<TOKEN>`:
+>
+> ```text
+> Import a Markdown document into my Principles system.
+> Source: https://raw.githubusercontent.com/rayford295/awesome-autonomous-geoai/main/RESEARCH_PHILOSOPHY.md
+> 1. Download the file. Skip the import box at the top and the "Table of Contents" section.
+>    Keep the untitled introduction that follows the table of contents and title it "Introduction".
+> 2. Split the rest by "## " headings. Each section becomes one note: title = the heading text,
+>    content = the section body (split sections longer than 5000 characters at "### " sub-headings),
+>    source = "awesome-autonomous-geoai/RESEARCH_PHILOSOPHY.md#<heading>".
+> 3. Send notes in batches of at most 20 (under 100 KB per batch), generating the JSON with jq or a script so quotes are escaped:
+>    curl -X POST https://principles.numb1999.com/api/import \
+>      -H "Authorization: Bearer <TOKEN>" \
+>      -H "Content-Type: application/json" \
+>      -d '{"notes":[{"title":"...","content":"...","source":"..."}]}'
+>    Each call returns {"notes_added":..,"skipped":..,"principles_added":..}. Report progress after every batch;
+>    retry a failed batch once, then record it and continue.
+> 4. When done, report: sections processed, notes added, principles added, failures.
+>    Verify with GET https://principles.numb1999.com/api/principles (same Authorization header).
+> ```
+>
+> **Path B · no agent.** Download the raw file and upload it on the site's **导入笔记 → 上传文件** card
+> (`.md` is accepted), or paste individual sections into **粘贴笔记** (blank lines separate notes), then click **提炼原则**.
+>
+> **Then ask it something:**
+>
+> ```bash
+> curl -X POST https://principles.numb1999.com/api/context \
+>   -H "Authorization: Bearer <TOKEN>" -H "Content-Type: application/json" \
+>   -d '{"situation":"reviewer says my dissertation is just an application of existing models"}'
+> ```
+>
+> Returns the five most relevant principles (`?k=1-20` to change the count, `?llm=1` for LLM re-ranking).
+> Principles imported from this file carry `source=personal` in your account; cite this repository if you share them.
+
+---
+
 ## Table of Contents · 目录导航
 
 | # | Section | 内容 |
 |---|---------|------|
+| 0 | [Import into your Principles system · 导入到原则系统](#import) | Load this document into principles.numb1999.com |
 | 1 | [Introduction · 引言](#introduction) | Research philosophy preamble |
 | 2 | [导师寄语 · Advisor's Message](#advisor-message) | 邹老师的科研写作寄语 |
 | 3 | [什么是我的博士专业？](#phd) | GIScience & GeoAI 的社会意义 |
