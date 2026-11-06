@@ -132,6 +132,10 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **CaGIS** — The Cartography and Geographic Information Society (CaGIS)<br>
   https://cartogis.org/
 
+- **SSTD** — International Symposium on Spatial and Temporal Data<br>
+  Biennial symposium on spatial and temporal data management, analytics, and applications; since 2027 its scope explicitly covers GeoAI, foundation models, and AI-driven spatiotemporal data science.<br>
+  https://sstdconf27.github.io/
+
 ### Major AI Conferences (Host Venues)
 - **AAAI** — AAAI Conference on Artificial Intelligence  
   https://aaai.org/conference/aaai/
@@ -194,6 +198,14 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   The track covers responsible spatial AI, including privacy-preserving spatial algorithms, bias detection and mitigation, explainable spatial models, and governance for spatial data and applications.
   Track chairs: Zhe Zhang (Texas A&M University), Shaowen Wang (University of Illinois Urbana-Champaign), Tianbao Yang (Texas A&M University), and Zhe Jiang (University of Florida).<br>
   https://eigtrust.acm.org/trust2027/
+
+- **SSTD 2027: 20th International Symposium on Spatial and Temporal Data**<br>
+  Call for Papers for SSTD 2027, to be held in August 2027 at North Carolina State University, Raleigh, NC, USA. SSTD 2027 expands its scope to spatial AI, machine learning, foundation models, and AI-driven spatial and spatiotemporal data science, and explicitly invites work at the intersection of spatial/temporal data management and AI ("AI for spatial data" and "spatial data for AI").<br>
+  **Topics include:** spatial and temporal databases, indexing and query processing; spatial data mining and analytics; mobility and trajectory analysis; geographic information retrieval; spatial networks and graphs; GeoAI and deep learning; spatiotemporal forecasting; foundation models and LLMs for spatial data; generative AI and multimodal spatial learning; AI-ready spatial datasets and benchmarks; vector databases and spatial RAG; spatial privacy and fairness; smart cities, transportation, and environmental monitoring.<br>
+  **Tracks:** Research, Demo, Industry, Vision, and Doctoral Student Forum. Regular Research and Industry papers up to 10 pages; Short Research, Demo, and Vision papers up to 4 pages (ACM double-column, excluding references); single-blind review.<br>
+  **Two-round submission (new in 2027; all deadlines AoE):** Round 1, Research Track only — abstracts November 29, 2026, papers December 6, 2026, notification January 2027; Round 2, all tracks — abstracts April 4, 2027, papers April 11, 2027, notification June 2027. Papers rejected in Round 1 may be resubmitted in Round 2.<br>
+  Accepted papers appear in the ACM SSTD 2027 proceedings; outstanding papers may be invited to extended versions in GeoInformatica and/or ACM TSAS. Ralf H. Güting Best Paper Award.<br>
+  https://sstdconf27.github.io/ · CFP: https://sstdconf27.github.io/calls.html
 
 ### Workshops and Related Events (2026)
 - **ACM SIGSPATIAL OASIS 2026 Student Challenge: Open Agents with Spatial Intelligence for Social Good** — The first ACM SIGSPATIAL student challenge on open-source GeoAI agents for social good. Student teams design autonomous agents that retrieve, clean, and analyze open geospatial data while supporting human-in-the-loop oversight for responsible, value-aligned spatial decision-making.<br>
