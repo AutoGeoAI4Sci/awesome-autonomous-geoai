@@ -132,6 +132,10 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **CaGIS** — The Cartography and Geographic Information Society (CaGIS)<br>
   https://cartogis.org/
 
+- **SSTD** — International Symposium on Spatial and Temporal Data<br>
+  Biennial symposium on spatial and temporal data management, analytics, and applications; since 2027 its scope explicitly covers GeoAI, foundation models, and AI-driven spatiotemporal data science.<br>
+  https://sstdconf27.github.io/
+
 ### Major AI Conferences (Host Venues)
 - **AAAI** — AAAI Conference on Artificial Intelligence  
   https://aaai.org/conference/aaai/
@@ -194,6 +198,14 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   The track covers responsible spatial AI, including privacy-preserving spatial algorithms, bias detection and mitigation, explainable spatial models, and governance for spatial data and applications.
   Track chairs: Zhe Zhang (Texas A&M University), Shaowen Wang (University of Illinois Urbana-Champaign), Tianbao Yang (Texas A&M University), and Zhe Jiang (University of Florida).<br>
   https://eigtrust.acm.org/trust2027/
+
+- **SSTD 2027: 20th International Symposium on Spatial and Temporal Data**<br>
+  Call for Papers for SSTD 2027, to be held in August 2027 at North Carolina State University, Raleigh, NC, USA. SSTD 2027 expands its scope to spatial AI, machine learning, foundation models, and AI-driven spatial and spatiotemporal data science, and explicitly invites work at the intersection of spatial/temporal data management and AI ("AI for spatial data" and "spatial data for AI").<br>
+  **Topics include:** spatial and temporal databases, indexing and query processing; spatial data mining and analytics; mobility and trajectory analysis; geographic information retrieval; spatial networks and graphs; GeoAI and deep learning; spatiotemporal forecasting; foundation models and LLMs for spatial data; generative AI and multimodal spatial learning; AI-ready spatial datasets and benchmarks; vector databases and spatial RAG; spatial privacy and fairness; smart cities, transportation, and environmental monitoring.<br>
+  **Tracks:** Research, Demo, Industry, Vision, and Doctoral Student Forum. Regular Research and Industry papers up to 10 pages; Short Research, Demo, and Vision papers up to 4 pages (ACM double-column, excluding references); single-blind review.<br>
+  **Two-round submission (new in 2027; all deadlines AoE):** Round 1, Research Track only — abstracts November 29, 2026, papers December 6, 2026, notification January 2027; Round 2, all tracks — abstracts April 4, 2027, papers April 11, 2027, notification June 2027. Papers rejected in Round 1 may be resubmitted in Round 2.<br>
+  Accepted papers appear in the ACM SSTD 2027 proceedings; outstanding papers may be invited to extended versions in GeoInformatica and/or ACM TSAS. Ralf H. Güting Best Paper Award.<br>
+  https://sstdconf27.github.io/ · CFP: https://sstdconf27.github.io/calls.html
 
 ### Workshops and Related Events (2026)
 - **ACM SIGSPATIAL OASIS 2026 Student Challenge: Open Agents with Spatial Intelligence for Social Good** — The first ACM SIGSPATIAL student challenge on open-source GeoAI agents for social good. Student teams design autonomous agents that retrieve, clean, and analyze open geospatial data while supporting human-in-the-loop oversight for responsible, value-aligned spatial decision-making.<br>
@@ -1781,8 +1793,8 @@ potential.*
   https://pli.princeton.edu/
 - **Stanford HAI & Stanford Data Science Postdoctoral Fellowships** — Two complementary Stanford routes: HAI funds human-centered AI postdocs at intersections that traditional departments overlook, while Stanford Data Science runs its own annual postdoctoral fellows cohort spanning causal inference, statistics, and machine learning  
   https://hai.stanford.edu/ · https://datascience.stanford.edu/
-- **Johns Hopkins Data Science and AI Institute (DSAI) Postdoctoral Fellowship** — Two-year fellowship, extendable, for scholars advancing foundational data science and AI methods and their applications across science, health, engineering, policy, and ethics; applicants name two to three DSAI faculty as prospective mentors. Part of a major Whiting School expansion that includes 80 new DSAI faculty positions  
-  https://ai.jhu.edu/
+- **Johns Hopkins Data Science and AI Institute (DSAI) Postdoctoral Fellowship** — Two-year fellowship (one-year initial appointment, renewable on performance and funding) for disciplinarily diverse scholars advancing the foundations of data science and AI, applying them across science, health, engineering, the humanities, policy, and governance, or evaluating their implications. Fellows form an interdisciplinary cohort mentored by DSAI faculty, with a travel stipend, compute access, and collaboration across Homewood, the East Baltimore medical campus, the Applied Physics Laboratory, and the Washington, D.C. campus. The program builds on JHU's AI expansion of 80 new AI faculty, 30 Bloomberg Distinguished Professorships, and 30 research engineers. **2027 cohort:** starts Fall 2027; salary $63,480–$100,000; apply via Interfolio with a cover letter, CV, research statement (1–2 pages preferred), and two reference letters; deadline **December 11, 2026, 11:59 PM ET**; questions to ai@jhu.edu  
+  https://ai.jhu.edu/ · https://apply.interfolio.com/196237
 - **NYU Center for Data Science — Faculty Fellows** — Two-year independent research position (postdoc-equivalent with faculty title) carrying research funding and a light one-course-per-year teaching load; areas include machine learning, NLP, deep-learning theory, applications to the natural and social sciences, and responsible AI  
   https://cds.nyu.edu/faculty-fellows/
 - **University of Chicago Data Science Institute — Postdoctoral Scholars** — Research-only appointments with no teaching obligation, competitive salary, and research allowances, for scholars advancing data science and AI methods or their application to real-world problems; a faculty letter of collaboration is optional but helps  
