@@ -1749,6 +1749,33 @@ potential.*
 - **HKUST(GZ) — Urban Governance and Design Thrust (UGOD)** *(postdocs advertised via external job boards)* — GIS, remote sensing, geospatial big data, and deep learning for urban AI in Guangzhou Nansha<br>中文：香港科技大学（广州）城市治理与设计学域：面向城市 AI 的 GIS、遥感、地理空间大数据和深度学习，位于广州南沙<br>
   https://ugod.hkust-gz.edu.cn
 
+#### Computer Vision, 3D Vision, and Embodied Perception / 计算机视觉、三维视觉与具身感知
+
+*Limited to Beijing, Shanghai, Shenzhen, Guangzhou, and Hong Kong. Many lab pages carry no posting date, so entries marked "verify intake" need an email before applying.*
+
+*仅限北京、上海、深圳、广州与香港。许多课题组页面未注明发布日期，标注"待确认"的岗位请先发邮件确认。*
+
+- **Peking University CFCS — Yizhou Wang, Computer Vision and Digital Art Lab** *(Boya postdoc call; second 2026 batch closed 20 October 2026, ask about the next round)* — Computer vision, embodied perception (semantic maps, navigation, grasping), and embodied foundation models; ¥200k per year plus ¥60k housing and a PI top-up of at least ¥60k (Beijing)<br>中文：北京大学前沿计算研究中心王亦洲课题组：计算机视觉、具身感知（语义地图、导航、抓取）与具身基础模型；博雅博后税前年薪 20 万元，另有 6 万元住房补贴及导师不少于 6 万元配套；2026 年第二批已于 10 月 20 日截止，可咨询下一轮<br>
+  https://m.gaoxiaojob.com/announcement/detail/379901.html
+- **Peking University School of CS — Hao Tang, Embodied and Generative Intelligence Lab** *(hiring postdocs, October 2026)* — Generative AI, world models, spatial intelligence, and embodied AI (Beijing)<br>中文：北京大学计算机学院唐浩课题组：生成式 AI、世界模型、空间智能与具身智能；2026 年 10 月发布博后招聘（北京）<br>
+  https://ha0tang.github.io/
+- **Shanghai Jiao Tong University — Lizhuang Ma, DMCV Lab** *(postdoc call dated April 2026)* — Computer vision, deep learning, graphics, and VR, with projects run with Tencent and Huawei; team includes Cewu Lu, Bin Sheng, and Ran Yi (Shanghai)<br>中文：上海交通大学马利庄 DMCV 实验室：计算机视觉、深度学习、图形学与 VR，与腾讯、华为合作，团队含卢策吾、盛斌、易冉；2026 年 4 月发布博后招聘（上海）<br>
+  https://dmcv.sjtu.edu.cn/data/DMCV博士后招聘2026.04.docx
+- **HKUST CSE — Dan Xu Group** *(postdoc positions listed for 2027; undated)* — 3D vision, scene understanding, and generative 3D (Hong Kong)<br>中文：香港科技大学计算机系徐丹课题组：三维视觉、场景理解与三维生成；页面列有 2027 年博后岗位（香港）<br>
+  https://www.danxurgb.net/
+- **HKU EEE — Xiaojuan Qi Group** *(one postdoc in vision for robotics; verify intake)* — 3D vision and vision for robotics (Hong Kong)<br>中文：香港大学电机电子工程系齐晓娟课题组：三维视觉与机器人视觉，招 1 名博后，待确认（香港）<br>
+  https://xjqi.github.io/
+- **PolyU Computing — Lei Zhang Group** *(several postdoc / research associate positions; verify intake)* — Efficient LLMs and VLMs, image and video restoration, joint with OPPO Research (Hong Kong)<br>中文：香港理工大学电子计算学系张磊课题组：高效大语言模型与视觉语言模型、图像视频复原，与 OPPO 研究院合作；待确认（香港）<br>
+  https://www4.comp.polyu.edu.hk/~cslzhang/
+- **PolyU DSAI — Xingyi Yang Group** *(one to two postdocs, open year-round)* — Generative AI and computer vision (Hong Kong)<br>中文：香港理工大学数据科学与人工智能系杨幸艺课题组：生成式 AI 与计算机视觉，常年招 1–2 名博后（香港）<br>
+  https://adamdad.github.io/opening
+- **HKUST(GZ) — Zeyu Wang, CIS Lab** *(one postdoc; verify intake)* — Gaussian splatting, neural rendering, 3D content generation, digital humans, volumetric video, and AR/VR (Guangzhou)<br>中文：香港科技大学（广州）王泽宇 CIS 实验室：高斯泼溅、神经渲染、三维内容生成、数字人、体积视频与 AR/VR，招 1 名博后，待确认（广州）<br>
+  https://cislab.hkust-gz.edu.cn/openings
+- **CUHK-Shenzhen — Junjie Hu, Embodied AI and Robotics Lab** *(seeking postdocs; site launched March 2026)* — Multi-sensor fusion, embodied perception, and robot navigation and manipulation (Shenzhen)<br>中文：香港中文大学（深圳）胡俊杰具身智能与机器人实验室：多传感器融合、具身感知、机器人导航与操作（深圳）<br>
+  https://earlab-cuhksz.github.io/
+- **CUHK-Shenzhen — Tin Lun Lam Group** *(posting PR2026/012/01; open until 31 December 2026)* — Multi-robot cooperative perception, SLAM, and mutual localization (Shenzhen)<br>中文：香港中文大学（深圳）林天麟课题组：多机器人协同感知、SLAM 与相互定位，岗位开放至 2026 年 12 月 31 日（深圳）<br>
+  https://www.cuhk.edu.cn/zh-hans/recruitment/7966
+
 #### Industry Top-PhD Hiring Programs (Not Postdocs) / 企业顶尖博士校招计划（非博士后）
 
 *Major Chinese tech companies run formal postdoctoral workstations, but none currently advertises a postdoc intake. For a 2027 PhD the real industry entry is each company's named top-talent campus program, which recruits through the class-of-2027 hiring cycle and reportedly pays around ¥1M or more for top PhDs.*
@@ -1765,6 +1792,23 @@ potential.*
   https://talent.baidu.com/jobs/
 - **Ant Group Plan A** *(elite AI researcher track for master's and PhD graduates)* — Hangzhou and Shanghai<br>中文：蚂蚁集团 Plan A：面向硕博毕业生的顶尖 AI 研究人才通道，工作地为杭州、上海<br>
   https://talent.antgroup.com
+- **Kuaishou 快Star Top Tech-Talent Program** *(year-round; graduates January 2025 to October 2027; 2027 autumn drive opened 12 August 2026)* — Large models, audio and video, visual chain-of-thought reasoning, and unified multimodal generation (Beijing)<br>中文：快手"快Star"顶尖技术人才计划：常年开放，面向 2025 年 1 月至 2027 年 10 月毕业生；方向含大模型、音视频、视觉思维链推理与统一多模态生成（北京）<br>
+  https://campus.kuaishou.cn
+- **Meituan 2027 Campus Hiring and Beidou Program (北斗计划)** *(campus drive opened 17 August 2026 for graduates November 2026 to October 2027; verify the current Beidou window)* — Foundation models, autonomous driving, drones, and embodied intelligence (Beijing, Shanghai, Shenzhen, Guangzhou, Hong Kong)<br>中文：美团 2027 届校招与北斗计划：2026 年 8 月 17 日启动，面向 2026 年 11 月至 2027 年 10 月毕业生；方向含大模型、自动驾驶、无人机与具身智能；北斗计划当前窗口待确认<br>
+  https://zhaopin.meituan.com/web/campus
+- **DJI 2027 Campus Program** *(opened 25 June 2026; open until filled)* — Vision and perception algorithms for drones and robotics (Shenzhen)<br>中文：大疆 2027 届校招：2026 年 6 月 25 日开放，招满即止；无人机与机器人视觉感知算法（深圳）<br>
+  https://careers.dji.com/zh-CN/campus
+- **JD TGT Top Young Tech-Talent Program (京东 TGT)** *(graduates October 2024 to September 2027; early window closed July 2026, verify the current window)* — Image algorithms, robotics, and medical AI (Beijing, Shanghai, Shenzhen)<br>中文：京东 TGT 顶尖青年技术天才计划：面向 2024 年 10 月至 2027 年 9 月毕业生，提前批已于 2026 年 7 月截止，当前窗口待确认；方向含图像算法、机器人与医疗 AI<br>
+  https://campus.jd.com
+- **Huawei Genius Youth (天才少年 / TopMinds)** *(rolling; verify 2027 topics)* — Past challenge topics include intelligent imaging and world models; a Hong Kong recruiting session on multimodal models is reported for January 2027 (Shenzhen and other sites)<br>中文：华为"天才少年"：滚动招聘，往年课题含智能成像与世界模型；据报道 2027 年 1 月将在香港举办多模态大模型专场，2027 年课题待确认<br>
+  https://career.huawei.com/cn/young-genius
+
+#### Industry Research Labs / 产业研究院
+
+- **Microsoft Research Asia (MSRA)** *(full-time researcher roles posted August–October 2026)* — Vision and multimodal foundation models, computer vision with human–computer interaction, multimodal and embodied AI, and physical AI and robotics (Beijing, Shanghai)<br>中文：微软亚洲研究院：2026 年 8–10 月发布全职研究员岗位，方向含视觉与多模态基础模型、计算机视觉与人机交互、多模态与具身智能、物理 AI 与机器人（北京、上海）<br>
+  https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/opportunities/
+- **IDEA Research — Computer Vision and Robotics Research Center** *(full-time and postdoc positions listed; verify intake)* — Computer vision, multimodal models, 3D vision, and embodied AI under Harry Shum's Shenzhen institute<br>中文：粤港澳大湾区数字经济研究院（IDEA）计算机视觉与机器人研究中心：计算机视觉、多模态、三维视觉与具身智能，招聘页列有全职与博士后岗位，招收情况待确认（深圳）<br>
+  https://www.idea.edu.cn/research/cvr.html · https://idea.zhiye.com/
 
 #### Monitor for Industry AI Openings / 持续观察：企业 AI 平台
 
