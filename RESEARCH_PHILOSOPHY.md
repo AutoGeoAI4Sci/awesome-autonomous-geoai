@@ -950,7 +950,7 @@ All in动作，一般是玩家拿到好牌的时候，对整个局势有着极�
 
 自然界中任何可生成或存在的模式，都能被经典学习算法高效地发现并建模。
 
-
+No one is coming. Be kind to yourself.
 
 ↑ [Back to Top · 返回目录](#top)
 
