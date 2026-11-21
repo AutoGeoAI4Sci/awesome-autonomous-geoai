@@ -50,6 +50,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
 - [Postdoc Opportunities](#postdoc-opportunities)
   - [Geo-Focused (GIScience · Remote Sensing · Earth Systems)](#geo-focused-giscience--remote-sensing--earth-systems)
   - [Mainland China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence](#mainland-china--hong-kong-top-tier-postdoctoral-opportunities-in-ai-geoai-and-spatial-intelligence)
+    - [CS, AI, and Computer Vision Postdocs in Six Cities](#cs-ai-and-computer-vision-postdocs-in-six-cities)
   - [AI-Focused (Computer Science · Machine Learning)](#ai-focused-computer-science--machine-learning)
   - [Open-Discipline Fellowships (Fit Either Track)](#open-discipline-fellowships-fit-either-track)
 - [Miscellaneous](#miscellaneous)
@@ -1749,32 +1750,78 @@ potential.*
 - **HKUST(GZ) — Urban Governance and Design Thrust (UGOD)** *(postdocs advertised via external job boards)* — GIS, remote sensing, geospatial big data, and deep learning for urban AI in Guangzhou Nansha<br>中文：香港科技大学（广州）城市治理与设计学域：面向城市 AI 的 GIS、遥感、地理空间大数据和深度学习，位于广州南沙<br>
   https://ugod.hkust-gz.edu.cn
 
-#### Computer Vision, 3D Vision, and Embodied Perception / 计算机视觉、三维视觉与具身感知
+<a name="computer-vision-3d-vision-and-embodied-perception--计算机视觉三维视觉与具身感知"></a>
 
-*Limited to Beijing, Shanghai, Shenzhen, Guangzhou, and Hong Kong. Many lab pages carry no posting date, so entries marked "verify intake" need an email before applying.*
+#### CS, AI, and Computer Vision Postdocs in Six Cities
 
-*仅限北京、上海、深圳、广州与香港。许多课题组页面未注明发布日期，标注"待确认"的岗位请先发邮件确认。*
+*北京、上海、广州、深圳、杭州和香港的名校博士后。研究方向以通用计算机视觉、视觉语言模型、生成式 AI、机器学习和具身智能为主。*
 
-- **Peking University CFCS — Yizhou Wang, Computer Vision and Digital Art Lab** *(Boya postdoc call; second 2026 batch closed 20 October 2026, ask about the next round)* — Computer vision, embodied perception (semantic maps, navigation, grasping), and embodied foundation models; ¥200k per year plus ¥60k housing and a PI top-up of at least ¥60k (Beijing)<br>中文：北京大学前沿计算研究中心王亦洲课题组：计算机视觉、具身感知（语义地图、导航、抓取）与具身基础模型；博雅博后税前年薪 20 万元，另有 6 万元住房补贴及导师不少于 6 万元配套；2026 年第二批已于 10 月 20 日截止，可咨询下一轮<br>
-  https://m.gaoxiaojob.com/announcement/detail/379901.html
-- **Peking University School of CS — Hao Tang, Embodied and Generative Intelligence Lab** *(hiring postdocs, October 2026)* — Generative AI, world models, spatial intelligence, and embodied AI (Beijing)<br>中文：北京大学计算机学院唐浩课题组：生成式 AI、世界模型、空间智能与具身智能；2026 年 10 月发布博后招聘（北京）<br>
-  https://ha0tang.github.io/
-- **Shanghai Jiao Tong University — Lizhuang Ma, DMCV Lab** *(postdoc call dated April 2026)* — Computer vision, deep learning, graphics, and VR, with projects run with Tencent and Huawei; team includes Cewu Lu, Bin Sheng, and Ran Yi (Shanghai)<br>中文：上海交通大学马利庄 DMCV 实验室：计算机视觉、深度学习、图形学与 VR，与腾讯、华为合作，团队含卢策吾、盛斌、易冉；2026 年 4 月发布博后招聘（上海）<br>
-  https://dmcv.sjtu.edu.cn/data/DMCV博士后招聘2026.04.docx
-- **HKUST CSE — Dan Xu Group** *(postdoc positions listed for 2027; undated)* — 3D vision, scene understanding, and generative 3D (Hong Kong)<br>中文：香港科技大学计算机系徐丹课题组：三维视觉、场景理解与三维生成；页面列有 2027 年博后岗位（香港）<br>
-  https://www.danxurgb.net/
-- **HKU EEE — Xiaojuan Qi Group** *(one postdoc in vision for robotics; verify intake)* — 3D vision and vision for robotics (Hong Kong)<br>中文：香港大学电机电子工程系齐晓娟课题组：三维视觉与机器人视觉，招 1 名博后，待确认（香港）<br>
-  https://xjqi.github.io/
-- **PolyU Computing — Lei Zhang Group** *(several postdoc / research associate positions; verify intake)* — Efficient LLMs and VLMs, image and video restoration, joint with OPPO Research (Hong Kong)<br>中文：香港理工大学电子计算学系张磊课题组：高效大语言模型与视觉语言模型、图像视频复原，与 OPPO 研究院合作；待确认（香港）<br>
-  https://www4.comp.polyu.edu.hk/~cslzhang/
-- **PolyU DSAI — Xingyi Yang Group** *(one to two postdocs, open year-round)* — Generative AI and computer vision (Hong Kong)<br>中文：香港理工大学数据科学与人工智能系杨幸艺课题组：生成式 AI 与计算机视觉，常年招 1–2 名博后（香港）<br>
-  https://adamdad.github.io/opening
-- **HKUST(GZ) — Zeyu Wang, CIS Lab** *(one postdoc; verify intake)* — Gaussian splatting, neural rendering, 3D content generation, digital humans, volumetric video, and AR/VR (Guangzhou)<br>中文：香港科技大学（广州）王泽宇 CIS 实验室：高斯泼溅、神经渲染、三维内容生成、数字人、体积视频与 AR/VR，招 1 名博后，待确认（广州）<br>
-  https://cislab.hkust-gz.edu.cn/openings
-- **CUHK-Shenzhen — Junjie Hu, Embodied AI and Robotics Lab** *(seeking postdocs; site launched March 2026)* — Multi-sensor fusion, embodied perception, and robot navigation and manipulation (Shenzhen)<br>中文：香港中文大学（深圳）胡俊杰具身智能与机器人实验室：多传感器融合、具身感知、机器人导航与操作（深圳）<br>
-  https://earlab-cuhksz.github.io/
-- **CUHK-Shenzhen — Tin Lun Lam Group** *(posting PR2026/012/01; open until 31 December 2026)* — Multi-robot cooperative perception, SLAM, and mutual localization (Shenzhen)<br>中文：香港中文大学（深圳）林天麟课题组：多机器人协同感知、SLAM 与相互定位，岗位开放至 2026 年 12 月 31 日（深圳）<br>
-  https://www.cuhk.edu.cn/zh-hans/recruitment/7966
+The shortlist covers Peking University, Tsinghua University, Fudan University, Shanghai Jiao Tong University, Zhejiang University, HKU, HKUST, and CUHK, with the employing institutions in Guangzhou and Shenzhen named separately. Sources checked **20 November 2026**. A dated posting gives the advertised terms. For lab and rolling calls, contact the supervisor to check funded vacancies and the start date.
+
+名单按工作地点排列。注明具体日期的是公告所列时间。课题组招募和长期招聘请先确认有经费的名额、博士专业资格和入职时间。港科大（广州）与港中大（深圳）的岗位由相应学校发布。
+
+[Beijing 北京](#beijing-北京) · [Shanghai 上海](#shanghai-上海) · [Guangzhou 广州](#guangzhou-广州) · [Shenzhen 深圳](#shenzhen-深圳) · [Hangzhou 杭州](#hangzhou-杭州) · [Hong Kong 香港](#hong-kong-香港)
+
+##### Beijing 北京
+
+| Host / 合作单位 | Research / 研究方向 | Recruitment / 招聘信息 |
+| --- | --- | --- |
+| Peking University CS · Hao Tang / 北大计算机学院唐浩 | Generative AI, world models, and embodied intelligence / 生成式 AI、世界模型、具身智能 | The PI invites postdoc applications. Ask about the intake. [PI recruitment](https://ha0tang.github.io/) |
+| Peking University Wangxuan Institute · Wei Hu / 北大王选计算机研究所胡玮 | 3D vision, multimodal scene understanding, and 3D generation / 三维视觉、多模态场景理解与三维生成 | The PI invites postdocs to send a CV. [PI recruitment](https://www.wict.pku.edu.cn/huwei/) |
+| Tsinghua EE · Guijin Wang, Visual Computing Lab / 清华电子系王贵锦 | Multimodal object recognition and low-level image reconstruction / 多模态目标识别、低层图像重建 | The lab lists two research tracks. Check degree and project requirements. [Lab recruitment](https://image.ee.tsinghua.edu.cn/#join) |
+| Peking University CS · Tong Yang / 北大计算机学院杨仝 | VLMs, world models, multi-agent models, and efficient training and inference / 视觉语言模型、世界模型、多智能体、高效训推 | 2–3 posts, until filled. The call specifies a related PhD, a qualifying first-author paper, and distributed-training experience. [Official posting](https://postdocs.pku.edu.cn/zpxx/af7c4c5ece7a4af4ada427f05f3a101a.htm) |
+| Tsinghua CS · Minlie Huang, CoAI / 清华计算机系黄民烈 | Dialogue systems, language generation, question answering, and reasoning / 对话系统、语言生成、问答与推理 | The lab lists postdoc applications. Check its stated eligibility criteria. [Lab recruitment](https://hml.coai.cs.tsinghua.edu.cn/recruit) |
+| Tsinghua Institute for AI Industry Research · DISCOVER Lab / 清华智能产业研究院 DISCOVER 实验室 | Robot perception, planning, and simulation-to-real transfer / 机器人感知、规划与仿真到现实迁移 | Institute call includes postdocs. Ask which robotics projects have openings. [Institute posting](https://air.tsinghua.edu.cn/info/1029/2338.htm) |
+
+For the next Boya round, [Yizhou Wang's PKU CVDA group](https://cfcs.pku.edu.cn/people/faculty/yizhouwang/) is a lead for computer vision and embodied perception. Ask about the next intake and check the [university's notices](https://postdocs.pku.edu.cn/tzgg/index.htm).
+
+##### Shanghai 上海
+
+| Host / 合作单位 | Research / 研究方向 | Recruitment / 招聘信息 |
+| --- | --- | --- |
+| Fudan · Vision and Learning Laboratory / 复旦视觉与学习实验室 | Vision-language reasoning, video understanding, and robust ML / 视觉语言推理、视频理解、鲁棒机器学习 | The lab invites recent and upcoming PhD graduates. Its page specifies publication or major-project experience criteria. [Lab recruitment](https://fvl-repo.github.io/joinus-postdoc) |
+| Shanghai Jiao Tong · Lizhuang Ma, DMCV / 上海交大马利庄团队 | Computer vision, deep learning, and graphics / 计算机视觉、深度学习、计算机图形学 | The lab links to a postdoc call. Confirm the next intake. [Lab recruitment](https://dmcv.sjtu.edu.cn/) |
+| Fudan · Dejing Dou's Data Intelligence Lab / 复旦计算与智能创新学院窦德景团队 | Embodied intelligence / 具身智能 | One full-time position on a rolling call published **9 October 2026**. [Official posting](https://hr.fudan.edu.cn/1c/73/c15369a793715/page.htm) |
+| Fudan · Yanghua Xiao / 复旦肖仰华团队 | Data for large models and model evaluation / 大模型数据科学与评测 | The university published a postdoc call. Ask about the next intake. [Institute posting](https://datascience.fudan.edu.cn/b5/e7/c13525a701927/page.htm) |
+| Shanghai Jiao Tong · AudioCC Lab / 上海交大 AudioCC 实验室 | Speech and audio foundation models, self-supervised learning, and multimodal generation / 语音与音频基础模型、自监督学习、多模态生成 | The lab advertises 1–2 postdocs per year. [Lab recruitment](https://audiocc.sjtu.edu.cn/en/join-us) |
+
+##### Guangzhou 广州
+
+| Host / 合作单位 | Research / 研究方向 | Recruitment / 招聘信息 |
+| --- | --- | --- |
+| HKUST (Guangzhou) · Zeyu Wang, CIS Lab / 港科大（广州）王泽宇 | Generative 3D, Gaussian splatting, and neural rendering / 三维生成、高斯泼溅、神经渲染 | The lab lists postdoc applications. Confirm its projects and intake. [Lab recruitment](https://cislab.hkust-gz.edu.cn/openings/) |
+| HKUST (Guangzhou) · Xinhu Zheng, OMEGA Lab / 港科大（广州）郑心湖 | Multimodal perception, world modeling, and embodied agents / 多模态感知、世界模型、具身智能体 | The lab invites postdoc applicants. The university confirms the applicable station and appointment terms for each opportunity. [Lab recruitment](https://omega-hkustgz.github.io/join/) |
+| HKUST (Guangzhou) · Fangqiang Ding, PAIRS Lab / 港科大（广州）丁方强 | Physical AI, multimodal perception, and long-horizon robotic manipulation / 物理 AI、多模态感知、长程机器人操作 | The lab welcomes postdoc inquiries and links to the university process. [Lab recruitment](https://pairslab.github.io/join/) |
+
+##### Shenzhen 深圳
+
+| Host / 合作单位 | Research / 研究方向 | Recruitment / 招聘信息 |
+| --- | --- | --- |
+| Peking University Shenzhen Graduate School · Jian Zhang, VILLA / 北大深圳研究生院张健 | Visual reconstruction, image and video generation, and AIGC provenance / 视觉重建、图像与视频生成、生成内容鉴伪 | The department lists a rolling two-year position. The PI also links to 2027 application information. [Official posting](https://www.ece.pku.edu.cn/jisuanjiboshihouzhaopinbiaoshijueneirongzhongjianyushengchengAIGCneironganquanfangxiangzhangjianketizu.pdf) · [PI recruitment](https://jianzhang.tech/cn/) |
+| Peking University Shenzhen Graduate School · Daquan Zhou / 北大深圳研究生院周大权 | Efficient multimodal large models for embodied intelligence / 面向具身智能的高效多模态大模型 | The school lists this track in its postdoc recruitment notice. Verify intake with the PI. [School posting](https://www.ece.pku.edu.cn/info/1008/2988.htm) |
+| CUHK (Shenzhen) · Junjie Hu / 港中大（深圳）胡俊杰 | Multisensor perception, robot navigation, and manipulation / 多传感器感知、机器人导航与操作 | The lab explicitly invites postdoc applicants. Confirm their start date separately with the PI. [Lab recruitment](https://earlab-cuhksz.github.io/) |
+| CUHK (Shenzhen) · Tin Lun Lam / 港中大（深圳）林天麟 | Multi-robot cooperative perception, SLAM, and mutual localization / 多机器人协同感知、SLAM 与相互定位 | Ref. PR2026/012/01, listed through **31 December 2026** and subject to filling. [Official posting](https://www.cuhk.edu.cn/zh-hans/recruitment/7966) |
+| CUHK (Shenzhen) · Haizhou Li, HLT Lab / 港中大（深圳）李海洲 | Speech agents and multimodal model compression, pretraining, and post-training / 语音智能体、多模态模型压缩、预训练与后训练 | Ref. PR2026/209/01, rolling applications under a three-year call. [Official posting](https://www.cuhk.edu.cn/zh-hans/recruitment/20378) |
+
+##### Hangzhou 杭州
+
+| Host / 合作单位 | Research / 研究方向 | Recruitment / 招聘信息 |
+| --- | --- | --- |
+| Zhejiang University CS · Xiaowei Zhou, ZJU-3DV / 浙江大学计算机学院周晓巍 | Image matching, 3D pose estimation, and multiview reconstruction / 图像匹配、三维位姿估计、多视角重建 | The PI invites postdocs to apply through the form. Confirm the funded intake. [PI recruitment](https://xzhou.me/) |
+| Zhejiang University CS · Shi Gu / 浙江大学计算机学院顾实 | Continual learning, interpretable AI, and brain-inspired perception and decision-making / 持续学习、可解释 AI、类脑感知与决策 | The group accepts rolling applications and lists a Zhejiang University Qiushi route. Confirm the employing institution and work location for the proposed position. [Group recruitment](https://guslab.org/postdoc) |
+
+##### Hong Kong 香港
+
+| Host / 合作单位 | Research / 研究方向 | Recruitment / 招聘信息 |
+| --- | --- | --- |
+| HKU School of Computing and Data Science · Kai Han, Visual AI Lab / 港大 Kai Han 视觉 AI 实验室 | VLMs, open-world visual learning, and grounded reasoning / 视觉语言模型、开放世界视觉学习、视觉证据推理 | The lab lists postdoc opportunities and asks for a CV and transcripts. [Lab recruitment](https://visual-ai.github.io/) |
+| HKUST CSE · Dan Xu / 港科大计算机系徐丹 | Multimodal representation learning and 2D/3D scene understanding / 多模态表征学习、二维与三维场景理解 | The PI lists postdoc opportunities for **spring and fall 2027**. [PI recruitment](https://www.danxurgb.net/) |
+| HKU EEE · Xiaojuan Qi / 港大齐晓娟 | Vision for robotics, 3D scene reconstruction, and multimodal spatial understanding / 机器人视觉、三维场景重建、多模态空间理解 | The PI lists one robotics-vision postdoc. Confirm the intake. [PI recruitment](https://xjqi.github.io/) |
+| HKU · Situated Reality Lab / 港大 Situated Reality 实验室 | Multimodal and embodied AI, XR, and interactive systems / 多模态与具身 AI、扩展现实与交互系统 | The lab advertises **1–2 funded postdoc positions starting in 2027**. Use the postdoc form on the page. [Lab recruitment](https://www.situated-reality.org/join-us/) |
+| CUHK · Multimedia Laboratory / 港中大多媒体实验室 | Computer vision and deep learning / 计算机视觉与深度学习 | The lab invites postdocs to email a CV. Confirm a supervisor and funded project. [Lab recruitment](https://mmlab.ie.cuhk.edu.hk/join_us.html) |
+| HKUST · Sai-Kit Yeung / 港科大 Sai-Kit Yeung 团队 | 3D reconstruction, 3D scene understanding, and image enhancement / 三维重建、三维场景理解、图像增强 | The lab advertises project postdocs. Its page lists immediate openings, so confirm whether the relevant project can start in 2027. [PI recruitment](https://saikit.org/opportunities.html) |
+
+Hong Kong's **2027/28 RGC Junior Research Fellow Scheme** university nomination deadline was **30 October 2026**. Contact supervisors directly about project-funded posts for 2027. [RGC call](https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/call_letter.html)
 
 #### Industry Top-PhD Hiring Programs (Not Postdocs) / 企业顶尖博士校招计划（非博士后）
 
