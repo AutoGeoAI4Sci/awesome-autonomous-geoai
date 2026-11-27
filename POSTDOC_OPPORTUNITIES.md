@@ -17,8 +17,8 @@ posted. Check the official page before applying because deadlines and funding ca
 | 2 | [Mainland China & Hong Kong](#mainland-china--hong-kong-top-tier-postdoctoral-opportunities-in-ai-geoai-and-spatial-intelligence) | 中国大陆与香港的 AI、GeoAI 与空间智能博士后 | see 2a–2e |
 | 2a | [Elite Postdoctoral Fellowship Schemes](#elite-postdoctoral-fellowship-schemes--顶尖博士后资助计划) | 资助计划：JRFS、水木学者、博雅、博新、上海纽约等 | 7 |
 | 2b | [AI Platforms, Vision, and Spatial Intelligence](#entrepreneurial-priority-ai-platforms-vision-and-spatial-intelligence--第一优先级创业潜力ai-平台视觉与空间智能) | 第一优先级：AI 平台、视觉与空间智能 | 15 |
-| 2c | [Applied AI and AI for Science](#applied-ai-and-ai-for-science--第二优先级应用-ai-与科学智能) | 第二优先级：应用 AI 与科学智能 | 5 |
-| 2d | [GeoAI, Remote Sensing, and Disaster Intelligence](#geoai-remote-sensing-and-disaster-intelligence--第三优先级geoai遥感与地理灾害) | 第三优先级：GeoAI、遥感与地理灾害 | 19 |
+| 2c | [Applied AI and AI for Science](#applied-ai-and-ai-for-science--第二优先级应用-ai-与科学智能) | 第二优先级：应用 AI 与科学智能 | 11 |
+| 2d | [GeoAI, Remote Sensing, and Disaster Intelligence](#geoai-remote-sensing-and-disaster-intelligence--第三优先级geoai遥感与地理灾害) | 第三优先级：GeoAI、遥感与地理灾害 | 20 |
 | 2e | [CS, AI, and Computer Vision Postdocs in Six Cities](#cs-ai-and-computer-vision-postdocs-in-six-cities) | 六城 CS、AI 与计算机视觉博士后 | 27 |
 | 3 | [AI-Focused](#ai-focused-computer-science--machine-learning) | 计算机与机器学习方向的博士后项目（以欧美为主） | 25 |
 | 4 | [Open-Discipline Fellowships](#open-discipline-fellowships-fit-either-track) | 不限学科的博士后奖学金 | 7 |
@@ -125,7 +125,7 @@ potential.*
   https://hkustcareers.hkust.edu.hk/hong-kong-generative-ai-research-and-development-center-limited/hkgai0003
 - **HKUST — Hong Kong Center for Construction Robotics** *(current Post-doctoral Fellow opening)* — Robotics SLAM, decision planning, computer vision, machine learning, and visual–LiDAR–IMU sensor fusion for physical-world systems; strong product potential in robotics, construction, inspection, and autonomous operations<br>中文：机器人 SLAM、决策规划、计算机视觉、机器学习和视觉–LiDAR–IMU 多传感器融合；在机器人、建筑、巡检和自主作业方向具有较强产品化潜力<br>
   https://hkustcareers.hkust.edu.hk/hong-kong-center-for-construction-robotics-limited/cr0003
-- **Peking University Computer Science — Full-Time Postdoctoral Positions** *(2–3 postdocs; current recruitment)* — Large language models, vision-language models, world models, embodied AI, multi-agent systems, efficient deployment, and trustworthy AI; excellent foundational training, but less direct access to a specific vertical market<br>中文：大语言模型、视觉语言模型、世界模型、具身智能、多智能体系统、高效部署与可信 AI；底层 AI 训练很强，但与具体垂直市场的连接相对间接<br>
+- **Peking University Computer Science — Tong Yang Group, Full-Time Postdoctoral Positions** *(2–3 postdocs; posted 26 August 2026, open until filled; requires one first-author CCF A/B paper or top-journal article)* — Large language models, vision-language models, world models, embodied AI, multi-agent systems, efficient deployment, and trustworthy AI; excellent foundational training, but less direct access to a specific vertical market<br>中文：大语言模型、视觉语言模型、世界模型、具身智能、多智能体系统、高效部署与可信 AI；底层 AI 训练很强，但与具体垂直市场的连接相对间接。该启事来自杨仝课题组，其 2026 年工作集中在智能体可信评测与 harness 效应（Harness-Bench、Claw-Eval）<br>
   https://postdocs.pku.edu.cn/zpxx/af7c4c5ece7a4af4ada427f05f3a101a.htm
 - **Tsinghua University NLP Lab** *(long-term postdoc recruitment)* — Foundation models, multimodal models, embodied intelligence, tool learning, autonomous agents, multi-agent systems, and scientific intelligence; strong long-term AI value, although startup direction would need to be chosen independently<br>中文：基础大模型、多模态模型、具身智能、工具学习、自主智能体、多智能体系统和科学智能；长期 AI 价值很强，但创业垂直场景需要自己进一步选择<br>
   https://nlp.csai.tsinghua.edu.cn/jobs/category/research_team
@@ -148,6 +148,18 @@ potential.*
   https://fi.ee.tsinghua.edu.cn/joinus
 - **The Chinese University of Hong Kong — Xiangyu Yue (IE / MMLab)** *(postdoc opportunities stated on homepage; undated, checked 26 November 2026)* — Multimodal AI, agentic AI, embodied AI, and "AI + X"; a route into agent methods for applicants bringing a geospatial application<br>中文：香港中文大学岳翔宇（信息工程系 / MMLab）：多模态 AI、智能体 AI、具身智能和 "AI + X"；主页写明有博士后机会，适合带着地理空间应用去做智能体方法的申请人<br>
   https://xyue.io
+- **Tsinghua University College of AI — Jia Li Group** *(recruiting postdoctoral researchers per homepage; page updated 11 November 2026)* — Trustworthy and safe AI agents and domain agents for scientific research; a new group, and a close match for work on agent accountability, evaluation, and harnesses<br>中文：清华大学人工智能学院李佳课题组：可信与安全的智能体，以及面向科研的领域智能体；新建课题组，主页写明招收博士后，与智能体问责、评测和 harness 方向契合<br>
+  https://lj2lijia.github.io/ · https://collegeai.tsinghua.edu.cn/rydw/qzpi/lijia.htm
+- **Tsinghua University College of AI — Yiming Li Group** *(looking for postdocs per homepage; undated, checked 26 November 2026)* — Spatial intelligence, digital twins, and city-scale view extrapolation and visual localization; adjacent to street-view and satellite cross-view generation<br>中文：清华大学人工智能学院李一鸣课题组：空间智能、数字孪生、城市尺度的视角外推合成和视觉定位；与街景和卫星跨视角生成相邻，主页写明招博士后<br>
+  https://yimingli-page.github.io/ · https://collegeai.tsinghua.edu.cn/rydw/qzpi/liyiming.htm
+- **Peking University School of Computer Science — "AI+X" Interdisciplinary Postdocs (Tengjiao Wang)** *(1–2 full-time postdocs; posted 23 April 2026, closes 31 December 2026)* — Cross-disciplinary "AI+X" research between AI and the humanities, social sciences, science, and engineering; the call explicitly welcomes applicants from science and engineering backgrounds with AI application skills<br>中文：北京大学计算机学院 "AI+X" 交叉领域全职博士后（王腾蛟）：招 1–2 人，面向人工智能与人文社科、理工交叉方向，明文接受有 AI 应用能力的理工科背景；2026 年 4 月 23 日发布，12 月 31 日截止<br>
+  https://postdocs.pku.edu.cn/zpxx/48a6cffb9c2e4441a58cf75ccfa78efb.htm
+- **The University of Hong Kong ECE — Edith Ngai / IoT Lab** *(multiple postdocs sought per lab page; undated, checked 26 November 2026)* — LLM-empowered smart systems, edge general intelligence, and AI for networking, with smart cities among the group's research areas<br>中文：香港大学电机电子工程系 Edith Ngai 物联网实验室：LLM 赋能的智能系统、边缘通用智能和网络 AI，研究方向含智慧城市；课题组页写明招多名博士后<br>
+  https://web.ece.hku.hk/~iotlab/
+- **The University of Hong Kong Computing and Data Science — Ka Ho Chow** *(postdoctoral fellow openings in Hong Kong and Shanghai per homepage; undated)* — Trustworthy AI systems and the security of retrieval-augmented generation; relevant to agent harnesses and verification<br>中文：香港大学计算与数据科学学院周嘉豪：可信 AI 系统和检索增强生成的安全，与智能体 harness 和验证相关；主页写明在香港和上海招博士后<br>
+  https://khchow.com
+- **The Chinese University of Hong Kong IE — Zhenyu Yan / AIoT Lab** *(postdoc positions "immediately available" per openings page; undated)* — AIoT and LLM-driven tasking of sensing systems; only shortlisted candidates receive a reply<br>中文：香港中文大学信息工程系鄢振宇 AIoT 实验室：智能物联网，以及用 LLM 给传感系统下任务；招聘页写博士后岗位可立即入职，只回复入围者<br>
+  https://www.yanzhenyu.com/openings
 
 #### GeoAI, Remote Sensing, and Disaster Intelligence / 第三优先级：GeoAI、遥感与地理灾害
 
@@ -181,6 +193,8 @@ potential.*
   https://urban.pkusz.edu.cn/info/1015/3310.htm
 - **The University of Hong Kong Urban Planning and Design — Jun Ma** *(Post-doctoral Fellow in AI Agents for BIM and Construction, Ref. 536609, several posts; closes 31 January 2027)* — LLM multi-agent systems and street-view multimodal models in a group that also works on urban and flood applications; the advertised posts target BIM and construction workflows<br>中文：香港大学城市规划及设计系 Jun Ma：LLM 多智能体和街景多模态模型，课题组也做城市和洪水应用；在招岗位面向 BIM 与施工流程的 AI 智能体，多个名额，2027 年 1 月 31 日截止<br>
   https://jobs.hku.hk/en/job/536609/postdoctoral-fellow-in-ai-agents-for-bim-and-construction
+- **The University of Hong Kong Geography — Junshi Xu / PEACE Research Group** *(Postdoctoral Fellow in Transport, Urban Environment and Spatial Data Science, Ref. 537709; review until 30 November 2026 or until filled, listing shows 31 December 2026)* — Transport, urban environment, and spatial data science; the start date is negotiable<br>中文：香港大学地理系 Junshi Xu 课题组：交通、城市环境与空间数据科学博士后；广告正文写审核到 2026 年 11 月 30 日或招满为止（列表页显示 12 月 31 日），到岗日期可商定<br>
+  https://jobs.hku.hk/jobs/postdoctoral-fellow-in-transport-urban-environment-and-spatial-data-science-hong-kong-central-western
 - **The Chinese University of Hong Kong, Shenzhen — GeoAI and Urban Postdoc Positions** *(official postings close 31 December 2026 or when filled; checked 26 November 2026)* — Simon Pun (remote-sensing multimodal LLMs and cross-view localization; from ¥400k per year), Shuli Luo (street-view deep learning and LLMs for geospatial intelligence; from ¥320k per year, soon-to-graduate PhDs accepted), and Ying Yu (explainable GeoAI; one position). The postings require a PhD within three years and no prior postdoc in Guangdong<br>中文：香港中文大学（深圳）GeoAI 与城市方向博士后岗位：潘文安（遥感多模态大模型、跨视角定位，年薪不少于 40 万元）、罗淑莉（街景深度学习与 LLM、地理空间智能，不低于 32 万元/年，接受即将毕业者）、于颖（可解释 GeoAI，招 1 人）。官网岗位截止 2026 年 12 月 31 日或招满为止，要求博士毕业 3 年内且未在广东做过博士后<br>
   https://www.cuhk.edu.cn/zh-hans/recruitment/6755 · https://www.cuhk.edu.cn/zh-hans/recruitment/15389 · https://www.cuhk.edu.cn/zh-hans/recruitment/17603
 - **The Chinese University of Hong Kong Geography and Resource Management — Muhammad Sajjad** *(seeking candidates per personal site; undated, confirm funding)* — GeoAI, remote sensing, and spatial modelling for disaster resilience, including computer vision for flood monitoring<br>中文：香港中文大学地理与资源管理学系 Muhammad Sajjad：面向灾害韧性的 GeoAI、遥感和空间建模，包括用计算机视觉做洪水监测；个人网站写明在招相关方向人选，经费情况需确认<br>
