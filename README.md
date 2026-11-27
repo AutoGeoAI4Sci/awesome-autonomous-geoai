@@ -1678,6 +1678,8 @@ potential.*
   https://westlakefellows.westlake.edu.cn/
 - **Zhejiang University Postdoctoral Program (including the Qiushi postdoc track)** *(Hangzhou; rolling, group-based)* — Group advertisements report ¥260k–450k per year for regular postdocs and higher packages for the Qiushi track, plus Hangzhou's retention award; confirm current figures with the host group<br>中文：浙江大学博士后（含"求是博士后"）：课题组招聘广告显示普通博后年薪约 26–45 万元，求是博后更高，另有杭州留杭奖励；具体待遇以课题组当期公告为准<br>
   https://hr.zju.edu.cn/postdoctor/
+- **NYU Shanghai Postdoctoral Fellowship Program** *(deadline 12 February 2027; earliest start 1 September 2027; checked 26 November 2026)* — Up to twelve fellowships a year, open to all areas, for one- or two-year terms; PhD within three years and conferred by the start date. The application needs an endorsement letter from a full-time NYU Shanghai faculty mentor, so contact a host first<br>中文：上海纽约大学校级博士后项目：每年最多 12 个名额，不限学科，聘期 1–2 年；要求博士毕业 3 年内且入职前取得学位。申请材料须包含上纽全职教师的导师背书信，应先联系合作导师；2027 年 2 月 12 日截止，最早 2027 年 9 月 1 日入职<br>
+  https://apply.interfolio.com/198080
 
 #### Entrepreneurial Priority: AI Platforms, Vision, and Spatial Intelligence / 第一优先级：创业潜力、AI 平台、视觉与空间智能
 
@@ -1722,6 +1724,12 @@ potential.*
   https://hr.fudan.edu.cn/_t261/fa/a3/c4845a785059/page.htm
 - **Tongji University — Urban Public Safety Intelligent Perception Lab** *(postdoc recruitment)* — Vision-language and multimodal large models, urban public safety, anomaly perception, digital twins, and LLM-driven decision-making agents; promising for public-safety and urban-management products, but procurement cycles can be long<br>中文：视觉语言模型、多模态大模型、城市公共安全、异常感知、数字孪生和 LLM 驱动的决策智能体；适合公共安全和城市管理产品，但政企采购周期可能较长<br>
   https://imccms.tongji.edu.cn/info/1073/1217.htm · https://imccms.tongji.edu.cn/info/1117/1215.htm
+- **HKUST(GZ) AI Thrust — Hao Liu Group** *(1–2 postdoc openings for Spring/Fall 2027; checked 26 November 2026)* — Agentic data science, LLMs as urban agents, urban foundation models, and extreme-weather and flood forecasting (EvoDS, ClimAgent, USTBench, UniExtreme); a close match for agentic GeoAI with a climate or disaster application. Applicants send a CV, research statement, representative work, and preferred start date<br>中文：香港科技大学（广州）人工智能学域刘浩课题组：数据科学智能体、城市智能体、城市基础模型，以及极端天气和洪水预测；与"智能体 + 气候或灾害应用"的 GeoAI 方向高度契合。2027 年春/秋季招 1–2 名博士后，需提交简历、研究陈述、代表作和期望入职日期<br>
+  https://raymondhliu.github.io/
+- **Tsinghua University Electronic Engineering — FIB Lab (Yong Li)** *(standing postdoc call; page undated, checked 26 November 2026)* — Urban science and computing: urban LLM agents, cross-view urban multimodal models (UrbanMLLM, UrbanLLaVA), and human mobility under extreme events. The call states a minimum of ¥500k per year for qualified candidates and recommends applying for the Shuimu and national innovative-talent schemes<br>中文：清华大学电子工程系城市科学与计算研究中心（李勇）：城市 LLM 智能体、跨视角城市多模态模型，以及极端事件下的人群移动。招聘页写明长期有效，符合要求者最低年薪 50 万元，并推荐申请水木学者和博新计划<br>
+  https://fi.ee.tsinghua.edu.cn/joinus
+- **The Chinese University of Hong Kong — Xiangyu Yue (IE / MMLab)** *(postdoc opportunities stated on homepage; undated, checked 26 November 2026)* — Multimodal AI, agentic AI, embodied AI, and "AI + X"; a route into agent methods for applicants bringing a geospatial application<br>中文：香港中文大学岳翔宇（信息工程系 / MMLab）：多模态 AI、智能体 AI、具身智能和 "AI + X"；主页写明有博士后机会，适合带着地理空间应用去做智能体方法的申请人<br>
+  https://xyue.io
 
 #### GeoAI, Remote Sensing, and Disaster Intelligence / 第三优先级：GeoAI、遥感与地理灾害
 
@@ -1748,7 +1756,21 @@ potential.*
 - **Centre for Perceptual and Interactive Intelligence (CPII), InnoHK** *(contact for openings)* — CUHK-led InnoHK centre at Hong Kong Science Park with visual-intelligence research and a "Vision-based Urban Services" programme<br>中文：感知与互动智能研究中心（香港中文大学牵头的 InnoHK 研发中心，位于香港科学园）：视觉智能研究，并设有"基于视觉的城市服务"项目<br>
   https://cpii.hk/join-us-2/
 - **HKUST(GZ) — Urban Governance and Design Thrust (UGOD)** *(postdocs advertised via external job boards)* — GIS, remote sensing, geospatial big data, and deep learning for urban AI in Guangzhou Nansha<br>中文：香港科技大学（广州）城市治理与设计学域：面向城市 AI 的 GIS、遥感、地理空间大数据和深度学习，位于广州南沙<br>
-  https://ugod.hkust-gz.edu.cn
+  https://soch.hkust-gz.edu.cn
+- **Peking University IRSGIS — Fan Zhang Group** *(recruiting project or Boya postdocs; page undated, checked 26 November 2026)* — GeoAI and urban big data with street-view and remote-sensing fusion, including satellite-to-street-view generation and agentic geolocalization; apply by email, and line up the supervisor confirmation before the Boya call<br>中文：北京大学遥感与地理信息系统研究所张帆课题组：地理人工智能和城市大数据，街景与遥感融合，包括卫星生成街景和智能体地理定位；官方页写明招收科研项目博士后或博雅博士后，通过邮件联系，博雅申请前须先取得合作导师确认<br>
+  https://irsgis.pku.edu.cn/ls/gis1111/zf/index.htm
+- **Peking University Shenzhen Graduate School — Junqing Tang Group** *(postdoc call dated February 2024; confirm it is live)* — Urban resilience and urban disasters with geospatial intelligence, large language models, and digital twins; the 2024 call lists ¥300k–340k per year including the Shenzhen subsidy<br>中文：北京大学深圳研究生院城市规划与设计学院汤俊卿团队：城市韧性与城市灾害，结合地理空间智能、大语言模型和数字孪生；2024 年 2 月的启事写明年薪 30–34 万元（含深圳市补助），需确认是否仍在招<br>
+  https://urban.pkusz.edu.cn/info/1015/3310.htm
+- **The University of Hong Kong Urban Planning and Design — Jun Ma** *(Post-doctoral Fellow in AI Agents for BIM and Construction, Ref. 536609, several posts; closes 31 January 2027)* — LLM multi-agent systems and street-view multimodal models in a group that also works on urban and flood applications; the advertised posts target BIM and construction workflows<br>中文：香港大学城市规划及设计系 Jun Ma：LLM 多智能体和街景多模态模型，课题组也做城市和洪水应用；在招岗位面向 BIM 与施工流程的 AI 智能体，多个名额，2027 年 1 月 31 日截止<br>
+  https://jobs.hku.hk/en/job/536609/postdoctoral-fellow-in-ai-agents-for-bim-and-construction
+- **The Chinese University of Hong Kong, Shenzhen — GeoAI and Urban Postdoc Positions** *(official postings close 31 December 2026 or when filled; checked 26 November 2026)* — Simon Pun (remote-sensing multimodal LLMs and cross-view localization; from ¥400k per year), Shuli Luo (street-view deep learning and LLMs for geospatial intelligence; from ¥320k per year, soon-to-graduate PhDs accepted), and Ying Yu (explainable GeoAI; one position). The postings require a PhD within three years and no prior postdoc in Guangdong<br>中文：香港中文大学（深圳）GeoAI 与城市方向博士后岗位：潘文安（遥感多模态大模型、跨视角定位，年薪不少于 40 万元）、罗淑莉（街景深度学习与 LLM、地理空间智能，不低于 32 万元/年，接受即将毕业者）、于颖（可解释 GeoAI，招 1 人）。官网岗位截止 2026 年 12 月 31 日或招满为止，要求博士毕业 3 年内且未在广东做过博士后<br>
+  https://www.cuhk.edu.cn/zh-hans/recruitment/6755 · https://www.cuhk.edu.cn/zh-hans/recruitment/15389 · https://www.cuhk.edu.cn/zh-hans/recruitment/17603
+- **The Chinese University of Hong Kong Geography and Resource Management — Muhammad Sajjad** *(seeking candidates per personal site; undated, confirm funding)* — GeoAI, remote sensing, and spatial modelling for disaster resilience, including computer vision for flood monitoring<br>中文：香港中文大学地理与资源管理学系 Muhammad Sajjad：面向灾害韧性的 GeoAI、遥感和空间建模，包括用计算机视觉做洪水监测；个人网站写明在招相关方向人选，经费情况需确认<br>
+  https://www.sajjadm.com/
+- **HKUST(GZ) — Qiumeng Li / Urban Mobility and Environmental Perception Lab** *(postdoc opportunities "may be available"; confirm by email)* — LLM agents and agent-based modelling for mobility, street-view perception, and mobility resilience under extreme weather; applicants send a CV and research proposal<br>中文：香港科技大学（广州）李秋蒙课题组：面向出行的 LLM 智能体与基于智能体的建模、街景感知，以及极端天气下的出行韧性；招聘页写博士后机会 "may be available"，需附简历和研究计划来信确认<br>
+  https://umeplab.github.io/openings
+- **Southern University of Science and Technology — Zhan Tian Group** *(postdoc call dated September 2024, "valid until filled"; confirm it is live)* — Urban flood risk and AI-supported decision-making; the call asks for experience in WRF, hydrological or hydrodynamic modelling, storm surge, or risk assessment<br>中文：南方科技大学环境科学与工程学院田展课题组：城市洪涝风险与 AI 决策；2024 年 9 月的启事写明长期有效、聘满为止，要求具备 WRF、水文水动力建模、风暴潮或风险评估经验之一，需确认是否仍在招<br>
+  https://ese.sustech.edu.cn/jobs/2935.html
 
 <a name="computer-vision-3d-vision-and-embodied-perception--计算机视觉三维视觉与具身感知"></a>
 
