@@ -11,11 +11,23 @@ posted. Check the official page before applying because deadlines and funding ca
 
 ## Contents
 
-- [Geo-Focused (GIScience · Remote Sensing · Earth Systems)](#geo-focused-giscience--remote-sensing--earth-systems)
-- [Mainland China & Hong Kong: Top-Tier Postdoctoral Opportunities in AI, GeoAI, and Spatial Intelligence](#mainland-china--hong-kong-top-tier-postdoctoral-opportunities-in-ai-geoai-and-spatial-intelligence)
-  - [CS, AI, and Computer Vision Postdocs in Six Cities](#cs-ai-and-computer-vision-postdocs-in-six-cities)
-- [AI-Focused (Computer Science · Machine Learning)](#ai-focused-computer-science--machine-learning)
-- [Open-Discipline Fellowships (Fit Either Track)](#open-discipline-fellowships-fit-either-track)
+| # | Section | 内容 | Entries |
+|---|---|---|---|
+| 1 | [Geo-Focused](#geo-focused-giscience--remote-sensing--earth-systems) | GIScience、遥感、地球系统方向的博士后项目和招聘渠道（以欧美为主） | 14 |
+| 2 | [Mainland China & Hong Kong](#mainland-china--hong-kong-top-tier-postdoctoral-opportunities-in-ai-geoai-and-spatial-intelligence) | 中国大陆与香港的 AI、GeoAI 与空间智能博士后 | see 2a–2e |
+| 2a | [Elite Postdoctoral Fellowship Schemes](#elite-postdoctoral-fellowship-schemes--顶尖博士后资助计划) | 资助计划：JRFS、水木学者、博雅、博新、上海纽约等 | 7 |
+| 2b | [AI Platforms, Vision, and Spatial Intelligence](#entrepreneurial-priority-ai-platforms-vision-and-spatial-intelligence--第一优先级创业潜力ai-平台视觉与空间智能) | 第一优先级：AI 平台、视觉与空间智能 | 15 |
+| 2c | [Applied AI and AI for Science](#applied-ai-and-ai-for-science--第二优先级应用-ai-与科学智能) | 第二优先级：应用 AI 与科学智能 | 5 |
+| 2d | [GeoAI, Remote Sensing, and Disaster Intelligence](#geoai-remote-sensing-and-disaster-intelligence--第三优先级geoai遥感与地理灾害) | 第三优先级：GeoAI、遥感与地理灾害 | 19 |
+| 2e | [CS, AI, and Computer Vision Postdocs in Six Cities](#cs-ai-and-computer-vision-postdocs-in-six-cities) | 六城 CS、AI 与计算机视觉博士后 | 27 |
+| 3 | [AI-Focused](#ai-focused-computer-science--machine-learning) | 计算机与机器学习方向的博士后项目（以欧美为主） | 25 |
+| 4 | [Open-Discipline Fellowships](#open-discipline-fellowships-fit-either-track) | 不限学科的博士后奖学金 | 7 |
+
+**Jump to a city in 2e / 按城市跳转：** [Beijing 北京](#beijing-北京) · [Shanghai 上海](#shanghai-上海) · [Guangzhou 广州](#guangzhou-广州) · [Shenzhen 深圳](#shenzhen-深圳) · [Hangzhou 杭州](#hangzhou-杭州) · [Hong Kong 香港](#hong-kong-香港)
+
+**Industry roles / 企业机会：** see [INDUSTRY_OPPORTUNITIES.md](INDUSTRY_OPPORTUNITIES.md).
+
+*Last updated 26 November 2026.*
 
 ---
 
@@ -251,46 +263,11 @@ For the next Boya round, [Yizhou Wang's PKU CVDA group](https://cfcs.pku.edu.cn/
 
 Hong Kong's **2027/28 RGC Junior Research Fellow Scheme** university nomination deadline was **30 October 2026**. Contact supervisors directly about project-funded posts for 2027. [RGC call](https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/call_letter.html)
 
-#### Industry Top-PhD Hiring Programs (Not Postdocs) / 企业顶尖博士校招计划（非博士后）
+#### Industry Programs and Research Labs / 企业校招计划与产业研究院
 
-*Major Chinese tech companies run formal postdoctoral workstations, but none currently advertises a postdoc intake. For a 2027 PhD the real industry entry is each company's named top-talent campus program, which recruits through the class-of-2027 hiring cycle and reportedly pays around ¥1M or more for top PhDs.*
+*Moved to [INDUSTRY_OPPORTUNITIES.md](INDUSTRY_OPPORTUNITIES.md#4-china-top-phd-hiring-programs-and-industry-labs): top-PhD campus hiring programs, industry research labs, and companies to monitor.*
 
-*国内头部科技公司虽设有博士后工作站，但目前均未发布博后招收信息。对 2027 届博士而言，真正的产业入口是各公司的顶尖人才校招计划，按 2027 届校招流程招聘，顶尖博士年薪据报道约百万元以上。*
-
-- **ByteDance Seed — 2027 Foundation Model Campus Recruitment (replaces Top Seed)** *(open now; graduates September 2026 to August 2027)* — About 100 hires across six areas including vision and multimodal intelligence and embodied AI, in Beijing, Shanghai, Shenzhen, Hangzhou, and overseas sites<br>中文：字节跳动 Seed 2027 届大模型人才校招（取代 Top Seed）：约 100 个名额，覆盖视觉与多模态智能、具身智能等六大方向，工作地包括北京、上海、深圳、杭州及海外；面向 2026 年 9 月至 2027 年 8 月毕业生<br>
-  https://seed.bytedance.com/zh/seedearlycareer
-- **Alibaba / AMap — AliStar and top-talent campus tracks** *(open now; graduates November 2026 to October 2027)* — The closest industry match for GeoAI: AMap now positions itself around spatial intelligence and launched a spatial-intelligence AI platform in 2026 (Beijing and Hangzhou)<br>中文：阿里巴巴 / 高德地图"阿里星"等顶尖人才校招：与 GeoAI 最贴近的产业方向，高德正以"空间智能"为核心定位，并于 2026 年发布空间智能 AI 平台（北京、杭州）<br>
-  https://talent.alibaba.com/campus/home
-- **Tencent Qingyun Program 2027** *(graduates January to December 2027)* — Six tracks including multimodal and vision, and agents and reinforcement learning, in Shenzhen, Beijing, Shanghai, and Hangzhou<br>中文：腾讯青云计划 2027：六大方向，含多模态与视觉、智能体与强化学习，工作地为深圳、北京、上海、杭州<br>
-  https://join.qq.com/qingyun.html
-- **Baidu AIDU Program 2027** *(main 2026 window closed in June; ask about late entry)* — Multimodal models, agents, and autonomous driving, with Apollo hiring world-model and vision-language-model architects (Beijing)<br>中文：百度 AIDU 计划 2027：多模态、智能体与自动驾驶，Apollo 在招世界模型与视觉语言模型架构师（北京）；2026 年主申请窗口已于 6 月关闭，可咨询补录<br>
-  https://talent.baidu.com/jobs/
-- **Ant Group Plan A** *(elite AI researcher track for master's and PhD graduates)* — Hangzhou and Shanghai<br>中文：蚂蚁集团 Plan A：面向硕博毕业生的顶尖 AI 研究人才通道，工作地为杭州、上海<br>
-  https://talent.antgroup.com
-- **Kuaishou 快Star Top Tech-Talent Program** *(year-round; graduates January 2025 to October 2027; 2027 autumn drive opened 12 August 2026)* — Large models, audio and video, visual chain-of-thought reasoning, and unified multimodal generation (Beijing)<br>中文：快手"快Star"顶尖技术人才计划：常年开放，面向 2025 年 1 月至 2027 年 10 月毕业生；方向含大模型、音视频、视觉思维链推理与统一多模态生成（北京）<br>
-  https://campus.kuaishou.cn
-- **Meituan 2027 Campus Hiring and Beidou Program (北斗计划)** *(campus drive opened 17 August 2026 for graduates November 2026 to October 2027; verify the current Beidou window)* — Foundation models, autonomous driving, drones, and embodied intelligence (Beijing, Shanghai, Shenzhen, Guangzhou, Hong Kong)<br>中文：美团 2027 届校招与北斗计划：2026 年 8 月 17 日启动，面向 2026 年 11 月至 2027 年 10 月毕业生；方向含大模型、自动驾驶、无人机与具身智能；北斗计划当前窗口待确认<br>
-  https://zhaopin.meituan.com/web/campus
-- **DJI 2027 Campus Program** *(opened 25 June 2026; open until filled)* — Vision and perception algorithms for drones and robotics (Shenzhen)<br>中文：大疆 2027 届校招：2026 年 6 月 25 日开放，招满即止；无人机与机器人视觉感知算法（深圳）<br>
-  https://careers.dji.com/zh-CN/campus
-- **JD TGT Top Young Tech-Talent Program (京东 TGT)** *(graduates October 2024 to September 2027; early window closed July 2026, verify the current window)* — Image algorithms, robotics, and medical AI (Beijing, Shanghai, Shenzhen)<br>中文：京东 TGT 顶尖青年技术天才计划：面向 2024 年 10 月至 2027 年 9 月毕业生，提前批已于 2026 年 7 月截止，当前窗口待确认；方向含图像算法、机器人与医疗 AI<br>
-  https://campus.jd.com
-- **Huawei Genius Youth (天才少年 / TopMinds)** *(rolling; verify 2027 topics)* — Past challenge topics include intelligent imaging and world models; a Hong Kong recruiting session on multimodal models is reported for January 2027 (Shenzhen and other sites)<br>中文：华为"天才少年"：滚动招聘，往年课题含智能成像与世界模型；据报道 2027 年 1 月将在香港举办多模态大模型专场，2027 年课题待确认<br>
-  https://career.huawei.com/cn/young-genius
-
-#### Industry Research Labs / 产业研究院
-
-- **Microsoft Research Asia (MSRA)** *(full-time researcher roles posted August–October 2026)* — Vision and multimodal foundation models, computer vision with human–computer interaction, multimodal and embodied AI, and physical AI and robotics (Beijing, Shanghai)<br>中文：微软亚洲研究院：2026 年 8–10 月发布全职研究员岗位，方向含视觉与多模态基础模型、计算机视觉与人机交互、多模态与具身智能、物理 AI 与机器人（北京、上海）<br>
-  https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/opportunities/
-- **IDEA Research — Computer Vision and Robotics Research Center** *(full-time and postdoc positions listed; verify intake)* — Computer vision, multimodal models, 3D vision, and embodied AI under Harry Shum's Shenzhen institute<br>中文：粤港澳大湾区数字经济研究院（IDEA）计算机视觉与机器人研究中心：计算机视觉、多模态、三维视觉与具身智能，招聘页列有全职与博士后岗位，招收情况待确认（深圳）<br>
-  https://www.idea.edu.cn/research/cvr.html · https://idea.zhiye.com/
-
-#### Monitor for Industry AI Openings / 持续观察：企业 AI 平台
-
-- **Tencent AI Lab** *(research platform; monitor current openings)* — Computer vision, machine learning, generative learning, graph learning, reinforcement learning, and multimodal content AI; potentially valuable for product-oriented AI experience, but a current postdoctoral route is not clearly advertised<br>中文：计算机视觉、机器学习、生成学习、图学习、强化学习和多模态内容 AI；产品化经验价值较高，但当前未看到明确的博士后通道<br>
-  https://ailab.tencent.com/
-- **Alibaba DAMO Academy** *(monitor only; no open roles shown on the current page)* — A major industry AI research platform with computer vision, multimodal models, intelligent decision-making, and spatial-computing applications, but the current official off-campus page reports no open positions<br>中文：头部产业 AI 研究平台，覆盖计算机视觉、多模态模型、智能决策和空间计算应用；当前官方社会招聘页面显示暂无在招岗位，建议持续观察<br>
-  https://joindamo.alibaba.com/off-campus/position-list
+*企业顶尖博士校招计划、产业研究院和持续观察的公司已移到 [INDUSTRY_OPPORTUNITIES.md](INDUSTRY_OPPORTUNITIES.md#4-china-top-phd-hiring-programs-and-industry-labs)。*
 
 ### AI-Focused (Computer Science · Machine Learning)
 
